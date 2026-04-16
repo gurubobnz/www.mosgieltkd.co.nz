@@ -1,0 +1,36 @@
+- name: "Chon-Ji (9th gup)"
+  slug: chon-ji
+  thumb: /images/resources/patterns/chon-ji.png
+- name: "Dan-Gun (8th gup)"
+  slug: dan-gun
+  thumb: /images/resources/patterns/dan-gun.png
+- name: "Do-San (7th gup)"
+  slug: do-san
+  thumb: https://img.youtube.com/vi/mqvr2EzSShg/hqdefault.jpg
+- name: "Won-Hyo (6th gup)"
+  slug: won-hyo
+  thumb: https://img.youtube.com/vi/iPDis88FOtY/hqdefault.jpg
+- name: "Yul-Gok (5th gup)"
+  slug: yul-gok
+  thumb: https://img.youtube.com/vi/ulW93_Ndiyo/hqdefault.jpg
+- name: "Joong-Gun (4th gup)"
+  slug: joong-gun
+  thumb: https://img.youtube.com/vi/h3kYpCaGYxk/hqdefault.jpg
+- name: "Toi-Gye (3rd gup)"
+  slug: toi-gye
+  thumb: https://img.youtube.com/vi/9p0Wd7DeovM/hqdefault.jpg
+- name: "Hwa-Rang (2nd gup)"
+  slug: hwa-rang
+  thumb: https://img.youtube.com/vi/gfj07Q7ax4Y/hqdefault.jpg
+- name: "Choong-Moo (1st gup)"
+  slug: choong-moo
+  thumb: https://img.youtube.com/vi/fgQmzVpdcjY/hqdefault.jpg
+- name: "Kwang-Gae (1st dan)"
+  slug: kwang-gae
+  thumb: https://img.youtube.com/vi/jn5EGulw4-U/hqdefault.jpg
+- name: "Po-Eun (1st dan)"
+  slug: po-eun
+  thumb: https://img.youtube.com/vi/JBFKeAk8emI/hqdefault.jpg
+- name: "Ge-Baek (1st dan)"
+  slug: ge-baek
+  thumb: https://img.youtube.com/vi/7uUAP1O7sdA/hqdefault.jpg

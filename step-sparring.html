@@ -1,0 +1,46 @@
+---
+layout: default
+title: Step Sparring
+---
+<div class="container pb-5">
+
+  <h1>{{ page.title }}</h1>
+  <p class="lead">These are example sequences for grading. A = Attack &nbsp; D = Defence &nbsp; C = Counter attack.</p>
+
+  {% for section in site.data.step_sparring %}
+  <div class="step-sparring-section mb-5">
+    <div class="section-header belt-{{ section.color }} mb-3">
+      <h2 class="m-0">{{ section.title }}</h2>
+      <span class="grades">{{ section.grades }}</span>
+    </div>
+    <div class="row">
+      {% for seq in section.sequences %}
+      <div class="col-12 col-md-4 mb-3">
+        <div class="sequence-card">
+          <div class="sequence-number">{{ forloop.index }}</div>
+          <table class="w-100">
+            <tr class="row-a">
+              <td class="label">A</td>
+              <td>{{ seq.A }}</td>
+            </tr>
+            {% if seq.D %}
+            <tr class="row-d">
+              <td class="label">D</td>
+              <td>{{ seq.D }}</td>
+            </tr>
+            {% endif %}
+            <tr class="row-c">
+              <td class="label">C</td>
+              <td>{{ seq.C }}</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endfor %}
+
+</div>
+
+<header class="business" id="image-2"></header>

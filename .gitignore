@@ -1,0 +1,11 @@
+# Generated site directory
+_site/
+
+# Local cache and metadata files
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler and local gems
+.bundle/
+vendor/

@@ -1,0 +1,69 @@
+---
+layout: default
+title: Resources
+---
+<div class="container pb-4">
+
+  <h1>{{ page.title }}</h1>
+
+  <div id="books mb-5">
+    <div class="resources row">
+      <div class="col col-sm-12 col-md-3 my-4">
+        <p class="mb-3">Dan Handbook (2023)</p>
+        <a href="/resources/dan-handbook-2023.pdf">
+          <img class="w-100" src="/images/resources/dan-handbook-2023.jpg" />
+        </a>
+      </div>
+      <div class="col col-sm-12 col-md-3 my-4">
+        <p class="mb-3">Gup Handbook (2022)</p>
+        <a href="/resources/gup-handbook-2022.pdf">
+          <img class="w-100" src="/images/resources/gup-handbook-2022.jpg" />
+        </a>
+      </div>
+      <div class="col col-sm-12 col-md-3 my-4">
+        <p class="mb-3">Gup Handbook for Kids (2022)</p>
+        <a href="/resources/dan-handbook-2023.pdf">
+          <img class="w-100" src="/images/resources/gup-handbook-kids-2022.jpg" />
+        </a>
+      </div>
+      <div class="col col-sm-12 col-md-3 my-4">
+        <p class="mb-3">Pattern Workout Book</p>
+        <a href="/resources/pattern-workout-e-book.pdf">
+          <img class="w-100" src="/images/resources/pattern-workout-e-book.jpg" />
+        </a>
+      </div>
+    </div>
+    <div class="text-center mb-5">
+      Sorry, our expanded gup handbooks, self defence handbook and mini-kids handbooks are not available digitally.
+    </div>
+  </div>
+
+  <div id="step-sparring" class="mb-5">
+    <h2 class="text-center mb-4">Step Sparring</h2>
+    <div class="resources row justify-content-center">
+      <div class="col col-12 col-lg-4 mb-4">
+        <p class="mb-2">Step Sparring &mdash; all gup grades</p>
+        <a href="/step-sparring/">
+          <div class="step-sparring-placeholder" style="display: flex; background:#1a5fa8; color:#fff; height:120px; align-items:center; justify-content:center; border-radius:4px; font-size:1.1rem; font-weight: bold;">
+            View Step Sparring &raquo;
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div id="patterns">
+    <h2 class="text-center mb-4">Patterns</h2>
+    <div class="resources row">
+      {% for pattern in site.data.patterns %}
+      <div class="col col-12 col-lg-4 mb-4">
+        <p class="mb-2">{{ pattern.name }}</p>
+        <a href="/resources/patterns/{{ pattern.slug }}/"><img class="w-100" src="{{ pattern.thumb }}" /></a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+</div>
+
+<header class="business" id="image-2"></header>

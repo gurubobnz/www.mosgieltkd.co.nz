@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <title>{% if page.title %}{{ page.title }} - {% endif %}Mosgiel Taekwon-Do</title>
+    <script src="/js/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <link href="/assets/css/app.css" rel="stylesheet">
+    <style>[id] { scroll-margin-top: 70px; }</style>
+  </head>
+  <body class="{{ page.body_class | default: page.url | remove_first: '/' | remove: '/' | replace: '-', '_' | default: 'index' }}">
+
+    {% include nav.html %}
+
+    {{ content }}
+
+    <!-- Footer -->
+    <footer class="py-5 bg-dark">
+      <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Mosgiel Taekwon-Do - All Rights Reserved</p>
+      </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,75 @@
+---
+layout: default
+body_class: index
+---
+<header class="business" id="image-1">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <h1 class="display-3 text-center mt-4">
+          <img src="/images/mosgiel-tkd-logo.png" />
+        </h1>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="get-started-strip">
+  <div class="container d-flex justify-content-between align-items-center text-center text-md-left flex-column flex-md-row">
+    <p class="m-0 p-0" style="font-size: 1.2em;">Want to just get started? It's super easy and the first month is free!</p>
+    <a class="mt-3 mt-md-0 ml-2 btn btn-danger" href="/get-started/">Get Started</a>
+  </div>
+</div>
+
+<div class="container">
+  {% include about-address.html %}
+  <div class="row">
+    <div class="col-sm-4 my-4">
+      <div class="card">
+        <img class="card-img-top" src="/images/daebi-makgi.jpg" alt="">
+        <div class="card-body">
+          <h4 class="card-title">Why Taekwon-Do?</h4>
+          <p class="card-text">Taekwon-Do has many physical and mental health benefits, and promotes both personal achievement and working with others - see if it's right for you.</p>
+        </div>
+        <div class="card-footer">
+          <a href="/benefits/" class="btn">Read More &raquo;</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-4 my-4">
+      <div class="card">
+        <img class="card-img-top" src="/images/jump.jpg" alt="">
+        <div class="card-body">
+          <h4 class="card-title">Self Defence</h4>
+          <p class="card-text">We teach self defence which is only effective if it becomes a reflex. We cover awareness, avoidance, releases, counter-attacks and your rights under NZ law.</p>
+        </div>
+        <div class="card-footer">
+          <a href="/self-defence/" class="btn">Read More &raquo;</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-4 my-4">
+      <div class="card">
+        <img class="card-img-top" src="/images/crop.jpg" alt="">
+        <div class="card-body">
+          <h4 class="card-title">Check out our Mini-Kids class</h4>
+          <p class="card-text">Starting Taekwon-Do is the biggest hurdle, but not for our kids - we have a good group of kids who love to work and play together to learn about Taekwon-Do.</p>
+        </div>
+        <div class="card-footer">
+          <a href="/mini-kids/" class="btn">Find Out More &raquo;</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<header class="business" id="image-2"></header>
+
+<script>
+  (function() {
+    var header = document.getElementById('image-1');
+    window.addEventListener('scroll', function() {
+      header.style.backgroundPositionY = 'calc(50% + ' + (window.scrollY * 0.4) + 'px)';
+    }, { passive: true });
+  })();
+</script>

@@ -1,0 +1,14 @@
+title: Mosgiel Taekwon-Do
+description: ITF Taekwon-Do club in Mosgiel, New Zealand
+url: ""
+
+permalink: pretty
+
+sass:
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

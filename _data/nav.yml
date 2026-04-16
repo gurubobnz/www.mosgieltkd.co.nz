@@ -1,0 +1,14 @@
+- url: /
+  title: Home
+- url: /about/
+  title: About
+- url: /resources/
+  title: Resources
+- url: /fees/
+  title: Fees
+- url: /contact/
+  title: Contact
+- url: https://itkd.justgo.com
+  title: Member Login
+  classes: font-weight-bold
+  target: _blank

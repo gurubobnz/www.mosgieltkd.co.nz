@@ -1,0 +1,104 @@
+- title: Three step sparring
+  grades: Yellow belt to Green stripe
+  type: 3-step
+  color: yellow
+  sequences:
+    - A: Walking stance punch
+      D: Walking stance inner forearm block
+      C: Walking stance flat fingertip thrust
+    - A: Walking stance flat fingertip thrust
+      D: Walking stance knifehand high block
+      C: Sitting stance reverse knifehand front strike
+    - A: Walking stance front snap kick
+      D: Walking stance forearm low block
+      C: L-stance knifehand strike
+
+- title: Three step sparring
+  grades: Green stripe to Green belt
+  type: 3-step
+  color: yellow-green
+  sequences:
+    - A: L-stance reverse punch
+      D: L-stance inner forearm block
+      C: Side front snap kick (front foot)
+    - A: L-stance flat fingertip thrust
+      D: L-stance high side block
+      C: Dodge and turning kick (rear foot)
+    - A: L-stance knifehand strike
+      D: L-stance outer forearm inward block
+      C: Side piercing kick (front foot)
+
+- title: Two step sparring
+  grades: Green belt to Blue stripe
+  type: 2-step
+  color: green-blue
+  sequences:
+    - A: Walking stance middle punch, low front snap kick
+      D: Walking stance inner forearm block, walking stance knifehand low block
+      C: Middle reverse punch
+    - A: Side piercing kick, step forward L-stance reverse punch
+      D: L-stance palm downward block, knifehand guarding block
+      C: Side piercing kick (front foot)
+    - A: L-stance knifehand side strike, side turning kick
+      D: Crescent kick, dodge to L-stance forearm guarding block
+      C: Reverse turning kick
+
+- title: Two step sparring
+  grades: Blue stripe to Blue belt
+  type: 2-step
+  color: blue
+  sequences:
+    - A: Walking stance middle punch, low front snap kick
+      D: Walking stance inner forearm block, walking stance knifehand low block
+      C: Walking stance front elbow strike
+    - A: Side piercing kick, step forward L-stance reverse punch
+      D: L-stance palm downward block, dodge to forearm guarding block
+      C: Reverse hooking kick (front foot)
+    - A: L-stance knifehand side strike, side turning kick
+      D: Right hooking kick, L-stance outer forearm inward block
+      C: Step, twisting kick
+
+- title: One step sparring
+  grades: Blue belt to Red stripe
+  type: 1-step
+  color: blue-red
+  sequences:
+    - A: Walking stance punch
+      D: Rear foot stance upward block
+      C: Flying turning kick
+    - A: Walking stance flat fingertip thrust
+      D: ~
+      C: Flying front snap kick
+    - A: Side turning kick
+      D: Dodge to forearm guarding block
+      C: Flying side piercing kick (front foot)
+
+- title: One step sparring
+  grades: Red stripe to Red belt
+  type: 1-step
+  color: red
+  sequences:
+    - A: Walking stance punch
+      D: Hooking kick
+      C: Flying inward vertical kick
+    - A: Walking stance upset fingertip thrust
+      D: Dodge to knifehand low guarding block
+      C: Flying back piercing kick
+    - A: Side piercing kick
+      D: Crescent kick
+      C: Flying reverse turning kick
+
+- title: One step sparring
+  grades: Red belt to Black stripe
+  type: 1-step
+  color: red-black
+  sequences:
+    - A: Walking stance punch
+      D: L-stance palm downward block
+      C: Flying reverse hooking kick (front foot)
+    - A: Walking stance flat fingertip thrust
+      D: Dodge to L-stance guarding block
+      C: Mid-air kick
+    - A: Back piercing kick
+      D: ~
+      C: Flying twisting kick

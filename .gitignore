@@ -9,3 +9,6 @@ _site/
 # Bundler and local gems
 .bundle/
 vendor/
+
+# Agentic files
+.claude

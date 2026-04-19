@@ -1,0 +1,8623 @@
+[
+  {
+    "r": 0,
+    "q": "What is 'Ap Joomuk Nopunde Ap Jirugi' in English?",
+    "opts": [
+      "Forefist High Front Punch",
+      "Forefist Low Front Punch",
+      "Knifehand Middle Front Strike",
+      "Knifehand High Side Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'An Palmok Hechyo Makgi' in English?",
+    "opts": [
+      "Inner Forearm Wedging Block",
+      "Outer Forearm Wedging Block",
+      "Inner Forearm Pressing Block",
+      "Outer Forearm Pressing Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "What is the attackers ready position in 3 step sparring",
+    "opts": [
+      "Walking Stance Forearm Low Block",
+      "Parallel Ready Stance",
+      "Forearm Guarding Block",
+      "Attention Stance"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 2,
+    "q": "The correct rule for training preparation is",
+    "opts": [
+      "Members must be clean, have short nails",
+      "Footwear must be removed",
+      "Bow when entering and leaving",
+      "Ensure clothing is stored tidily"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 0,
+    "q": "Training area in Korean is",
+    "opts": [
+      "Dojang",
+      "Dojo",
+      "Yopcha",
+      "Busigi"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Bandal Son Bandal Taerigi' in English?",
+    "opts": [
+      "Arc-Hand Crescent Strike",
+      "Angle-Fist Angle Strike",
+      "Twin Arc-Hand Strike",
+      "Double Arc-Hand Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What is 'Twimyo Yonsok Jirugi' in English?",
+    "opts": [
+      "Flying Consecutive Punch",
+      "Flying Combination Punch",
+      "Flying Double Punch",
+      "Jumping Consecutive Punch"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 4,
+    "q": "Won-Hyo has this many movements",
+    "opts": [
+      "28",
+      "24",
+      "21",
+      "19"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 2,
+    "q": "Backfist",
+    "opts": [
+      "Dung Joomuk",
+      "Yop Joomuk",
+      "An Joomuk",
+      "Yobap Joomuk"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Yopcha Momchugi' in English?",
+    "opts": [
+      "Side Checking Kick",
+      "Front Checking Kick",
+      "Checking Kick",
+      "Vertical Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 2,
+    "q": "Dan-Gun was the legendary founder of Korea, the year is believed to be ...",
+    "opts": [
+      "2333 BC",
+      "1 AD",
+      "500 BC",
+      "633 BC"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Digutja Makgi' in English?",
+    "opts": [
+      "U-Shape Block",
+      "W-Shape Block",
+      "Hooking Block",
+      "Pressing Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 2,
+    "q": "Which 3 phrases below are found in the Yellow belt meaning",
+    "opts": [
+      "the Earth,Plant sprouts,foundation",
+      "Foundation, Beginning, Innocence",
+      "Plant Sprouts,foundation,beginning",
+      "Takes root,innocent, foundation"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 4,
+    "q": "What is 'An Palmok Dollimyo Makgi' in English?",
+    "opts": [
+      "Inner Forearm Circular Block",
+      "Inner Forearm Checking Block",
+      "Outer Forearm Checking Block",
+      "Outer Forearm Circular Block"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Noowo Cha Tulgi' in English?",
+    "opts": [
+      "Ground Thrusting Kick",
+      "Jumping Thrusting Kick",
+      "Ground Checking Kick",
+      "Jumping Crescent Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What is 'Pihamyo Bandae Dollyo Chagi' in English?",
+    "opts": [
+      "Dodging Reverse Turning Kick",
+      "Skipping Reverse Turning Kick",
+      "Dodging Turning Kick",
+      "Flying Reverse Turning Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 8,
+    "q": "What is 'Sahyun Nim Kke' in English?",
+    "opts": [
+      "Face The Master (7th - 8th Dan)",
+      "Face The Instructor (1st - 3rd Dan)",
+      "Face The Instructor (4th - 6th Dan)",
+      "Face The Grand Master (9th Dan)"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "How many movements are there in Eui-Am",
+    "opts": [
+      "45",
+      "43",
+      "39",
+      "51"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "General Kim Duk Ryang lived during which Dynasty",
+    "opts": [
+      "Lee",
+      "Silla",
+      "Koguryo",
+      "Beak Je"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "This Pattern is named after General _________, premier and Commander-In-Chief of the armed forces during the 14th century Koryo Dynasty",
+    "opts": [
+      "Choi-Yong",
+      "Sam-Il",
+      "Yoo-Sin",
+      "Kwang-Gae"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "In an L-Stance 70% of your weight is on your rear foot",
+    "opts": [
+      "Yes",
+      "No"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 5,
+    "q": "How many Movements are there in Yul-Gok",
+    "opts": [
+      "38",
+      "28",
+      "31",
+      "24"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Jungshin Sooyang' in English?",
+    "opts": [
+      "Moral Culture",
+      "Mountain Climbing",
+      "Travel",
+      "Wisdom"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 8,
+    "q": "Where did Taekwon-Do developed into maturity",
+    "opts": [
+      "29th Infantry Division",
+      "27th Infantry Division",
+      "Baek Je Dynasty",
+      "Koguryo Dynasty"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 9,
+    "q": "Sonkal nopunde Ap Taerigi",
+    "opts": [
+      "Knifehand High Front Strike",
+      "Knifehand Low Side Strike",
+      "Knifehand High Side Strike",
+      "High Fingertip Thrust"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 5,
+    "q": "What is 'Bandae Dollyo Chagi' in English?",
+    "opts": [
+      "Reverse Turning Kick",
+      "Reverse Hooking Kick",
+      "Back Piercing Kick",
+      "Reverse Vertical Kick"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Noowo Golcho Chagi' in English?",
+    "opts": [
+      "Ground Hooking Kick",
+      "Ground Crescent Kick",
+      "Ground Smashing Kick",
+      "Jumping Smashing Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What is 'Mom Nachugi' in English?",
+    "opts": [
+      "Body Dropping",
+      "Foot Lifting",
+      "Waving Kick",
+      "Body Movement"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "______ denotes the historical date of the independance movement of Korea which began throughout the country on March 1. 1919.",
+    "opts": [
+      "Sam-Il",
+      "Yoo-Sin",
+      "Choi-Yong",
+      "Juche"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 2,
+    "q": "Dan-Gun has this many movements",
+    "opts": [
+      "21",
+      "19",
+      "24",
+      "18"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 0,
+    "q": "Nopunde translated is",
+    "opts": [
+      "High",
+      "Middle",
+      "Low",
+      "Kick"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 4,
+    "q": "What is 'Sonkal Anuro Taerigi' in English?",
+    "opts": [
+      "Knifehand Inward Strike",
+      "Knifehand Outward Strike",
+      "Knifehand Upset Strike",
+      "Knifehand Downward Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 0,
+    "q": "Sonkal Najunde Makgi means",
+    "opts": [
+      "Knifehand Low Block",
+      "Forearm Low Block",
+      "Forearm Middle Block",
+      "Forearm High Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What is 'Sang Bansin' in English?",
+    "opts": [
+      "Hand Parts",
+      "Foot Parts",
+      "Body Parts",
+      "Twin Hand"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 8,
+    "q": "What is 'Twi Dolmyo Chagi' in English?",
+    "opts": [
+      "Mid-Air Kick",
+      "Flying Turning Kick",
+      "Jumping Turning Kick",
+      "Flying Twisting Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 0,
+    "q": "What is 'Ap Joomuk Kaunde Ap Jirugi' in English?",
+    "opts": [
+      "Forefist Middle Front Punch",
+      "Forefist Low Front Punch",
+      "Forefist High Front Punch",
+      "Sidefist Middle Side Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 5,
+    "q": "The diagram for Yul-Gok represents",
+    "opts": [
+      "Scholar",
+      "Master",
+      "Heaven",
+      "Earth"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 5,
+    "q": "The ready position for Yul-Gok is Close Ready Stance A",
+    "opts": [
+      "No",
+      "Yes"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "Cold Showers and Baths",
+    "opts": [
+      "Naengsoo Machal",
+      "Yo Haeng",
+      "Dung San",
+      "Chon"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "Kyong Ye translates to",
+    "opts": [
+      "Bow",
+      "Attention",
+      "Punch",
+      "Stop"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Dwitcha Busigi' in English?",
+    "opts": [
+      "Back Snap Kick",
+      "Back Piercing Kick",
+      "Side Piercing Kick",
+      "Side Pushing Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 0,
+    "q": "In a Walking Stance most of the weight is on the front leg",
+    "opts": [
+      "No",
+      "Yes"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Dung San' in English?",
+    "opts": [
+      "Mountain Climbing",
+      "Righteousness",
+      "Public Service",
+      "Moral Culture"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "How many movements are there in Kwang-Gae",
+    "opts": [
+      "39",
+      "36",
+      "41",
+      "27"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Digutja Jirugi' in English?",
+    "opts": [
+      "U-Shaped Punch",
+      "Grasping Punch",
+      "Upset Punch",
+      "Horizontal Punch"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 9,
+    "q": "What is 'Yonsok Chagi' in English?",
+    "opts": [
+      "Consecutive Kick",
+      "Combination Kick",
+      "Skip Kick",
+      "Overhead Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "What is '3' in English?",
+    "opts": [
+      "Set",
+      "Net",
+      "Dool",
+      "Yol"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Narani So Sang Yop Palkup' in English?",
+    "opts": [
+      "Parallel Stance With A Twin Side Elbow",
+      "Walking Stance With Twin Side Elbow",
+      "Walking Stance With A Twin Side Elbow",
+      "Close Stance With Double Side Elbow"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 9,
+    "q": "What is a Kobukson said to be a precursor of",
+    "opts": [
+      "Submarine",
+      "Air plane",
+      "Battleship",
+      "Automobile"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "How many movements are there in Ge-Baek",
+    "opts": [
+      "44",
+      "42",
+      "48",
+      "38"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 2,
+    "q": "Forefist in Korean is",
+    "opts": [
+      "Ap Joomuk",
+      "Yop Joomuk",
+      "An Joomuk",
+      "Yobap Joomuk"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 2,
+    "q": "The first movement in Dan-Gun is a Knifehand Guarding Block",
+    "opts": [
+      "Yes",
+      "No"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Sonkal Dung Dollimyo Makgi' in English?",
+    "opts": [
+      "Reverse Knifehand Circular Block",
+      "Reverse Knifehand Checking Block",
+      "Obverse Knifehand Circular Block",
+      "Twin Knifehand Checking Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "Chon-Ji literally means ",
+    "opts": [
+      "the Heaven the Earth",
+      "the Beginning",
+      "Good and Evil",
+      "the two points of the Orient"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Net' in English?",
+    "opts": [
+      "4",
+      "1",
+      "5",
+      "7"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What does the pattern diagram for Juche represent",
+    "opts": [
+      "Baekdu Mountain",
+      "Scholar",
+      "Master",
+      "Life"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Ibo Omgyo Didigi' in English?",
+    "opts": [
+      "Double Stepping",
+      "Single Stepping",
+      "Double Step Turning",
+      "Single Step Turning"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 8,
+    "q": "What is 'Baro' in English?",
+    "opts": [
+      "Return",
+      "Yell",
+      "Start",
+      "Stop"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Yodul' in English?",
+    "opts": [
+      "8",
+      "6",
+      "5",
+      "3"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Bal Dulgi' in English?",
+    "opts": [
+      "Foot Lifting",
+      "Back Heel",
+      "Foot Shifting",
+      "Back Sole"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What is 'Bandal Son Taerigi' in English?",
+    "opts": [
+      "Arc Hand Strike",
+      "Arc Hand Thrust",
+      "Hooking Strike",
+      "Crescent Side Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 4,
+    "q": "What is 'Palmok Chookyo Makgi' in English?",
+    "opts": [
+      "Forearm Rising Block",
+      "Forearm Wedging Block",
+      "Knifehand Rising Block",
+      "Knifehand Wedging Block"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 3,
+    "q": "What is 'Sun Sonkut Tulgi' in English?",
+    "opts": [
+      "Straight Fingertip Thrust",
+      "Straight Fingertip Strike",
+      "Flat Fingertip Thrust",
+      "Flat Fingertip Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "Who was the 19th King of the Koguryo Dynasty",
+    "opts": [
+      "Kwang-Gae-Toh-Wang",
+      "Ge-Baek",
+      "Chong Mong-Chu",
+      "Son Byong Hi"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 12,
+    "q": "How many movements are there in Choi-Yong",
+    "opts": [
+      "46",
+      "49",
+      "52",
+      "37"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Kyun Hyung' in English?",
+    "opts": [
+      "Equilibrium",
+      "Speed",
+      "Breath Control",
+      "Concentration"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "What is 'Dasot' in English?",
+    "opts": [
+      "5",
+      "2",
+      "8",
+      "4"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "In the Orient what is the most esteemed of all numbers?",
+    "opts": [
+      "3",
+      "9",
+      "5",
+      "1"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Ji' in English?",
+    "opts": [
+      "Wisdom",
+      "Travel",
+      "Moral Culture",
+      "Righteousness"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 3,
+    "q": "What is 'Sonbadak Naeryo Makgi' in English?",
+    "opts": [
+      "Palm Downward Block",
+      "Knifehand Downward Block",
+      "Palm Pressing Block",
+      "Knifehand Rising Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 5,
+    "q": "What is the pseudonym of a great philosopher and scholar Yi-I",
+    "opts": [
+      "Yul-Gok",
+      "Won-Hyo",
+      "Joong-Gun",
+      "Do-San"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Bal Golgi' in English?",
+    "opts": [
+      "Foot Tackling",
+      "Foot Lifting",
+      "Foot Shifting",
+      "Leg Lifting"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 8,
+    "q": "What is 'Si Jak' in English?",
+    "opts": [
+      "Start",
+      "Stop",
+      "Return",
+      "At Ease"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 3,
+    "q": "What is 'Yop Dollyo Chagi' in English?",
+    "opts": [
+      "Side Turning Kick",
+      "Side Piercing Kick",
+      "Turning Kick",
+      "Reverse Turning Kick"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 3,
+    "q": "What is 'Yopcha Jirugi' in English?",
+    "opts": [
+      "Side Piercing Kick",
+      "Forefist Side Punch",
+      "Side Turning Kick",
+      "Back Piercing Kick"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Sang Joomuk Sewo Jirugi' in English?",
+    "opts": [
+      "Twin Fist Vertical Punch",
+      "Twin Fist Upset Punch",
+      "Twin Fist Downward Punch",
+      "Double Fist Vertical Punch"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Propriety' in English?",
+    "opts": [
+      "Ye",
+      "In",
+      "Nae",
+      "Shin"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Moral Culture' in English?",
+    "opts": [
+      "Jungshin Sooyang",
+      "Baekjul Boolgool",
+      "Soojik San",
+      "Jirumyo Sooyang"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 7,
+    "q": "Who was an authority on neo-Confucianism.",
+    "opts": [
+      "Yi Hwang",
+      "Ahn Joong Gun",
+      "Yom Chi",
+      "Ahn Chang Ho"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 12,
+    "q": "What is NOT one of the 5 virtues",
+    "opts": [
+      "Integrity",
+      "Trust",
+      "Righteousness",
+      "Humanity"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 2,
+    "q": "Fingertip",
+    "opts": [
+      "Sonkut",
+      "Sonkal",
+      "Sun Sonkut",
+      "Joomuk"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "Who was a great general in the Beak Je Dynasty (660AD)",
+    "opts": [
+      "Ge-Baek",
+      "Choong-Moo",
+      "Hwa-Rang",
+      "Po-Eun"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 1,
+    "q": "Narani Sogi translates to",
+    "opts": [
+      "Parallel Stance",
+      "Sitting Stance",
+      "L-Stance",
+      "Walking Stance"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Apcha Momchugi' in English?",
+    "opts": [
+      "Front Checking Kick",
+      "Side Checking Kick",
+      "Checking Kick",
+      "Vertical Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 2,
+    "q": "In Dan-Gun movement 13 and 14 are performed using ",
+    "opts": [
+      "Continuous motion",
+      "Fast motion",
+      "Slow motion",
+      "Low block and High punch"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Mountain Climbing' in English?",
+    "opts": [
+      "Dung San",
+      "Yo Haeng",
+      "Naengsoo Machal",
+      "Joonji"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What is 'Moa so Hanulson' in English?",
+    "opts": [
+      "Close Stance Heaven Hand",
+      "Close Ready Stance",
+      "Close Stance With A Twin Side Elbow",
+      "Vertical Stance Heaven Hand"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "Who wrote this poem: 'I would not serve a second master though I might be crucified a hundred times'",
+    "opts": [
+      "Chong Mong-Chu",
+      "Kwang-Gae-Toh-Wang",
+      "Son Byong Hi",
+      "Kim Duk Ryang"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Twio Dolmyo Taerigi' in English?",
+    "opts": [
+      "Mid-Air Strike",
+      "Mid-Air Thrust",
+      "Jumping Turning Strike",
+      "Jumping Turning Thrust"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 5,
+    "q": "Hooking Kick is an Offensive Kick",
+    "opts": [
+      "No",
+      "Yes"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What is 'Moorup Apch Busigi' in English?",
+    "opts": [
+      "Knee Front Snap Kick",
+      "Shin Front Snap Kick",
+      "Knee Side Snap Kick",
+      "Front Stamping Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 7,
+    "q": "How many movements are there in Toi-Gye",
+    "opts": [
+      "37",
+      "41",
+      "35",
+      "28"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 12,
+    "q": "The 33 movements of this pattern stand for the 33 patriots who planned the Korean independance movement",
+    "opts": [
+      "Sam-Il",
+      "Yoo-Sin",
+      "Choi-Yong",
+      "Juche"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 2,
+    "q": "The pattern diagram for Dan-Gun resembles ",
+    "opts": [
+      "an I Shape",
+      "an S Shape",
+      "a Cross ",
+      "a T Shape"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 4,
+    "q": "Won-Hyo introduced what to the Silla Dynasty in 686 AD",
+    "opts": [
+      "Buddhism",
+      "The Tenets",
+      "Taekwon-Do",
+      "Crescent Kick"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Ibo Omgyo Didimyo Dolgi' in English?",
+    "opts": [
+      "Double Step Turning",
+      "Single Stepping",
+      "Double Stepping",
+      "Single Step Turning"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 2,
+    "q": "In the pattern Dan-Gun all Punches are ",
+    "opts": [
+      "High",
+      "Low",
+      "Middle",
+      "Slow Motion"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Twigi' in English?",
+    "opts": [
+      "Jumping",
+      "Flying",
+      "Stepping",
+      "At Ease"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 5,
+    "q": "What is 'Doo Palmok Makgi' in English?",
+    "opts": [
+      "Double Forearm Block",
+      "Twin Forearm Block",
+      "Forearm Pressing Block",
+      "Forearm Hooking Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What is 'Najunde Anuro Makgi' in English?",
+    "opts": [
+      "Low Inward Block",
+      "High Inward Block",
+      "Low Outward Block",
+      "High Outward Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 9,
+    "q": "What is 'Twimyo Nomo Chagi' in English?",
+    "opts": [
+      "Flying Overhead Kick",
+      "Flying High Kick",
+      "Flying Downward Kick",
+      "Flying Snap Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What is 'Ha Bansin' in English?",
+    "opts": [
+      "Foot Parts",
+      "Body Parts",
+      "Ball Of The Foot",
+      "Side Instep"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 0,
+    "q": "Palmok Najunde Makgi means",
+    "opts": [
+      "Forearm Low Block",
+      "Knifehand Low Block",
+      "Forearm Middle Block",
+      "Forearm High Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Moorup Guburigi' in English?",
+    "opts": [
+      "Knee Bending",
+      "Foot Shifting",
+      "Leg Crossing",
+      "Covering"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "What is 'Palmok Anuro Makgi' in English?",
+    "opts": [
+      "Forearm Inward Block",
+      "Forearm Outward Block",
+      "Forearm Downward Block",
+      "Knifehand Inward Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What do the 39 movements of Kwang-Gae refer to",
+    "opts": [
+      "First 2 digits of 391 A.D",
+      "Birthplace (39th degree Latitude)",
+      "Birthplace (39th degree Longitude)",
+      "First 2 digits of 397 A.D"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Gunnun Junbi Sogi' in English?",
+    "opts": [
+      "Walking Ready Stance",
+      "Closed Ready Stance",
+      "Sitting Ready Stance",
+      "L Ready Stance"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 3,
+    "q": "Ahn Chang-Ho lived between these two years",
+    "opts": [
+      "1876-1938",
+      "1873-1935",
+      "1536-1584",
+      "686 AD - 702 AD"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 4,
+    "q": "The ready posture for Won-Hyo is",
+    "opts": [
+      "Close ready stance A",
+      "Bending stance ",
+      "Narani Junbi Sogi",
+      "Walking Stance"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Sang Sonbadak Chookyo Makgi' in English?",
+    "opts": [
+      "Twin Palm Rising Block",
+      "Twin Palm Checking Block",
+      "Double Palm Wedging Block",
+      "Double Forearm Circular Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "What pattern can be interpreted as the creation of the world or the beginning of human history.",
+    "opts": [
+      "Chon-Ji",
+      "Saju Makgi",
+      "Dan-Gun",
+      "Do-San"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Yol' in English?",
+    "opts": [
+      "10",
+      "8",
+      "5",
+      "3"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 4,
+    "q": "What is 'Pakat Palmok Hechyo Makgi' in English?",
+    "opts": [
+      "Outer Forearm Wedging Block",
+      "Innerforearm Wedging Block",
+      "Outer Forearm Downward Block",
+      "Inner Forearm Downward Block"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 4,
+    "q": "What is 'Gojung So Yop Jirugi' in English?",
+    "opts": [
+      "Fixed Stance Side Punch",
+      "Fixed Stance Front Punch",
+      "Walking Stance Side Punch",
+      "Walking Stance Front Punch"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Noowo Pihagi' in English?",
+    "opts": [
+      "Ground Dodging",
+      "Ground Stepping",
+      "Jumping Dodging",
+      "Ground Turning"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 6,
+    "q": "What pattern is named after the man who assassinated Hiro-Bumi Ito",
+    "opts": [
+      "Joong-Gun",
+      "Toi-Gye",
+      "Yul-Gok",
+      "Won-Hyo"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Sonkal Chookyo Makgi' in English?",
+    "opts": [
+      "Knifehand Rising Block",
+      "Knifehand Checking Block",
+      "Knifehand Horizontal Block",
+      "Knifehand Straight Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "What is '1' in English?",
+    "opts": [
+      "Hana",
+      "Set",
+      "Yol",
+      "Dasot"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Pyon Joomuk Jirugi' in English?",
+    "opts": [
+      "Open Fist Punch",
+      "Upset Fist Punch",
+      "Angle Fist Punch",
+      "Bear Hand Punch"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 9,
+    "q": "What is 'Kyocha Sonkal Momchau Makgi' in English?",
+    "opts": [
+      "X-Knifehand Checking Block",
+      "X-Knifehand Rising Block",
+      "Twin Knifehand Checking Block",
+      "Twin Knifehand Rising Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 6,
+    "q": "How Many movements in the pattern Joong Gun",
+    "opts": [
+      "32",
+      "38",
+      "42",
+      "31"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Dung Joomuk Soopyong Taerigi' in English?",
+    "opts": [
+      "Backfist Horizontal Strike",
+      "Backfist Vertical Strike",
+      "Backfist Horizontal Thrust",
+      "Backfist Downward Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "What is 'Yobap Cha Busigi' in English?",
+    "opts": [
+      "Side Front Snap Kick",
+      "Front Snap Kick",
+      "Back Snap Kick",
+      "Side Turning Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Son Gisool' in English?",
+    "opts": [
+      "Hand Technique",
+      "Foot Technique",
+      "Ground Technique",
+      "Flying Technique"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "Who was a pioneer in the field of physics.",
+    "opts": [
+      "Chong Mong-Chu",
+      "Kwang-Gae-Toh-Wang",
+      "Son Byong Hi",
+      "Kim Duk Ryang"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "Who was the leader of the Korean independance movement on March 1st 1919.",
+    "opts": [
+      "Son Byong Hi",
+      "Kwang-Gae-Toh-Wang",
+      "Chong Mong-Chu",
+      "Ge-Baek"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 5,
+    "q": "Vertical Kick is an Offensive Technique",
+    "opts": [
+      "Yes",
+      "No"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "_________ was greatly respected for his loyalty. patriotism. and humility. He was executed by his subordinate commanders headed by General Yi Sung Gae. who later became the first king of the Lee Dynasty",
+    "opts": [
+      "Choi-Yong",
+      "Yoo-Sin",
+      "Sam-IL",
+      "Ge-Baek"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Doro Chagi' in English?",
+    "opts": [
+      "Waving Kick",
+      "Grasping Kick",
+      "Punching Kick",
+      "Striking Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 0,
+    "q": "Dojang means",
+    "opts": [
+      "Training Area",
+      "Uniform",
+      "Walking Stance",
+      "Face the Flag"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 4,
+    "q": "What type of Kick is a Pick Shape Kick",
+    "opts": [
+      "Offensive",
+      "Defensive"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 6,
+    "q": "What is 'Nachuo Sogi' in English?",
+    "opts": [
+      "Low Stance",
+      "Bending Stance",
+      "One Leg Stance",
+      "Vertical Stance"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Noollo Chagi' in English?",
+    "opts": [
+      "Pressing Kick",
+      "Checking Kick",
+      "Rising Kick",
+      "Waving Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 6,
+    "q": "What is 'Giokja Jirugi' in English?",
+    "opts": [
+      "Angle Punch",
+      "Upset Punch",
+      "Vertical Punch",
+      "Downward Punch"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 5,
+    "q": "What is 'Ap Palkup Taerigi' in English?",
+    "opts": [
+      "Front Elbow Strike",
+      "Front Elbow Thrust",
+      "Side Elbow Thrust",
+      "Forefist Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 6,
+    "q": "Who was the first Japanese governor-general of Korea",
+    "opts": [
+      "Hiro Bumi Ito",
+      "Ahn Joong-Gun",
+      "Ahn Chang Ho",
+      "Dan Gun"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Bachigi' in English?",
+    "opts": [
+      "Holding",
+      "Checking",
+      "Foot Technique",
+      "Knee Bending"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Travel' in English?",
+    "opts": [
+      "Yo Haeng",
+      "Ji",
+      "Dung San",
+      "Naengsoo Machal"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 3,
+    "q": "Who devoted their life to furthering education in Korea and its independance movement",
+    "opts": [
+      "Ahn Chang Ho",
+      "Dan-Gun",
+      "Chon-Ji",
+      "Yul-Gok"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 4,
+    "q": "What is 'Ilbo Matsogi' in English?",
+    "opts": [
+      "One Step Sparring",
+      "Two Step Sparring",
+      "Three Step Sparring",
+      "Free Sparring"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Duro Makgi' in English?",
+    "opts": [
+      "Scooping Block",
+      "Nine Shape Block",
+      "U Shape Block",
+      "U Shape Grasp"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "Chondo Kyo translates to",
+    "opts": [
+      "Heavenly Way Religion",
+      "Oriental Culture",
+      "Local Belief",
+      "Unerring Loyalty"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 6,
+    "q": "How old was Ahn Joong-Gun When he was executed",
+    "opts": [
+      "32",
+      "35",
+      "37",
+      "38"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Bituro Chagi' in English?",
+    "opts": [
+      "Twisting Kick",
+      "Hooking Kick",
+      "Vertical Kick",
+      "Downward Kick"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Bandong Ryok' in English?",
+    "opts": [
+      "Reaction Force",
+      "Concentration",
+      "Equilibrium",
+      "Speed"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What is 'Ghutgi' in English?",
+    "opts": [
+      "Crosscut",
+      "Holding",
+      "Covering",
+      "Knee Bending"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "Choong-Jang ends with a left-hand attack, what does this symbolise",
+    "opts": [
+      "Tragic Death",
+      "Loyalty",
+      "Discipline",
+      "Life"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 4,
+    "q": "Who introduced Buddhism to the Silla Dynasty",
+    "opts": [
+      "Won-Hyo",
+      "Dan-Gun",
+      "Do-San",
+      "Joong-Gun"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "Which Patterns diagram represents severe and strict military discipline",
+    "opts": [
+      "Ge-Baek",
+      "Po-Eun",
+      "Choong-moo",
+      "Kwang-Gae"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Dwit Bal Sogi' in English?",
+    "opts": [
+      "Rear Foot Stance",
+      "Low Stance",
+      "One Leg Stance",
+      "Fixed Stance"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "how old was Son Byong Hi when he changed the name of Dong Hak",
+    "opts": [
+      "45",
+      "43",
+      "56",
+      "38"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Ahop' in English?",
+    "opts": [
+      "9",
+      "1",
+      "4",
+      "2"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Ap Joomuk Noolo Makgi' in English?",
+    "opts": [
+      "Forefist Pressing Block",
+      "Backfist Downward Strike",
+      "Palm Upward Block",
+      "Palm Downward Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "How many movements are there in Sam-Il",
+    "opts": [
+      "33",
+      "31",
+      "27",
+      "29"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Suroh Chagi' in English?",
+    "opts": [
+      "Sweeping Kick",
+      "Grasping Kick",
+      "Striking Kick",
+      "Thrusting Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 0,
+    "q": "In Walking Stance the rear leg is bent",
+    "opts": [
+      "No",
+      "Yes"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 0,
+    "q": "Jirugi means...",
+    "opts": [
+      "Punch",
+      "Kick",
+      "Walking Stance",
+      "Bow"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'Sang Yop Palkup Tulgi' in English?",
+    "opts": [
+      "Twin Side Elbow Thrust",
+      "Double Elbow Side Thrust",
+      "Double Backfist Strike",
+      "Twin Backfist Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What is 'Sang Inji Joomuk Bandal Jirugi' in English?",
+    "opts": [
+      "Twin Foreknuckle Fist Crescent Punch",
+      "Double Knuckle Fist Crescent Punch",
+      "Twin Foreknuckle Horizontal Punch",
+      "Twin Arc Hand Crescent Punch"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Dunjigi Wa Torojigi' in English?",
+    "opts": [
+      "Throwing And Falling Techniques",
+      "Throwing And Tripping Techniques",
+      "Tripping And Falling Techniques",
+      "Weapon And Unarmed Techniques"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 9,
+    "q": "What is 'Twimyo Nopi Chagi' in English?",
+    "opts": [
+      "Flying High Kick",
+      "Flying Downward Kick",
+      "Flying Snap Kick",
+      "Flying Vertical Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 8,
+    "q": "What is 'Saju Tulgi' in English?",
+    "opts": [
+      "Four Direction Thrust",
+      "Four Direction Kick",
+      "Four Direction Punch",
+      "Four Direction Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 8,
+    "q": "What is 'Junbi' in English?",
+    "opts": [
+      "Ready",
+      "Bow",
+      "Start",
+      "Stop"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 2,
+    "q": "Who was the Legendary Founder of Korea",
+    "opts": [
+      "Dan-Gun",
+      "Do-San",
+      "Chon-Ji",
+      "Ge-Baek"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Noowo Cha Jirugi' in English?",
+    "opts": [
+      "Ground Piercing Kick",
+      "Jumping Piercing Kick",
+      "Ground Smashing Kick",
+      "Flying Smashing Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 0,
+    "q": "Saju Makgi translates to",
+    "opts": [
+      "Four Direction Block",
+      "Four Direction Kick",
+      "Four Direction Strike",
+      "Four Direction Thrust"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Momchugi' in English?",
+    "opts": [
+      "Checking",
+      "Holding",
+      "Covering",
+      "Crosscut"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What is 'Narani Makgi' in English?",
+    "opts": [
+      "Parallel Block",
+      "Horizontal Block",
+      "Checking Block",
+      "Close Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 4,
+    "q": "In Close Ready Stance A, How far are the fists from the Philtrum",
+    "opts": [
+      "30cm",
+      "20cm",
+      "10cm",
+      "25cm"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 3,
+    "q": "What is the pseudonym of the patriot Ahn Chang Ho",
+    "opts": [
+      "Do-San",
+      "Dan-Gun",
+      "Chon-Ji",
+      "Ge-Baek"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Soopyong Jirugi' in English?",
+    "opts": [
+      "Horizontal Punch",
+      "Upset Punch",
+      "Vertical Punch",
+      "Downward Punch"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 7,
+    "q": "What is 'Kyocha Joomuk Noolo Makgi' in English?",
+    "opts": [
+      "X-Fist Pressing Block",
+      "X-Fist Rising Block",
+      "Twin Fist Pressing Block",
+      "Twin Fist Checking Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Noowo Cha Moomchugi' in English?",
+    "opts": [
+      "Ground Checking Kick",
+      "Flying Crescent Kick",
+      "Ground Crescent Kick",
+      "Flying Checking Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "What is '9' in English?",
+    "opts": [
+      "Ahop",
+      "Dasot",
+      "Yosot",
+      "Dool"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Yosot' in English?",
+    "opts": [
+      "6",
+      "3",
+      "1",
+      "8"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 0,
+    "q": "What is 'Ap Joomuk Najunde Ap Jirugi' in English?",
+    "opts": [
+      "Forefist Low Front Punch",
+      "Forefist Middle Front Punch",
+      "Forefist High Front Punch",
+      "Sidefist Low Side Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Trust' in English?",
+    "opts": [
+      "Shin",
+      "In",
+      "Nae",
+      "Ji"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "What is '8' in English?",
+    "opts": [
+      "Yodul",
+      "Yol",
+      "Net",
+      "Hana"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "what is the pseudonym of the loyal subject Choong Mong-Chu",
+    "opts": [
+      "Po-Eun",
+      "Gae-Baek",
+      "Kwan-Gae",
+      "Choong-Moo"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 1,
+    "q": "What do the 2 parts of Chon-Ji Represent",
+    "opts": [
+      "Heaven, Earth",
+      "Body, Mind",
+      "Foot, Fist",
+      "Life, Afterlife"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Dari Kogi' in English?",
+    "opts": [
+      "Leg Crossing",
+      "Leg Checking",
+      "Knee Bending",
+      "Covering"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What is 'Doo Joomuk Najunde Jirugi' in English?",
+    "opts": [
+      "Double Fist Low Punch",
+      "Double Forefist Low Punch",
+      "Twin Fist Low Punch",
+      "Twin Fist High Punch"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "One compulsory technique for 3 step sparring at 9th Gup is",
+    "opts": [
+      "Flat finger tip thrust",
+      "High back fist side strike",
+      "Knife-hand side block",
+      "Knife-hand side strike"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "The diagram for what pattern represents unerring loyalty to the king and country towards the end of the Koryo Dynasty.",
+    "opts": [
+      "Po-Eun",
+      "Ge-Baek",
+      "Kwang-Gae",
+      "Choong-Moo"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Bal Gisool' in English?",
+    "opts": [
+      "Foot Technique",
+      "Hand Technique",
+      "Jumping Technique",
+      "Flying Technique"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Ye' in English?",
+    "opts": [
+      "Propriety",
+      "Wisdom",
+      "Integrity",
+      "Trust"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 8,
+    "q": "Taekwon-Do was named on",
+    "opts": [
+      "April 11th 1955",
+      "March 6th 1955",
+      "April 11th 1966",
+      "August 19th 1972"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Bakuro' in English?",
+    "opts": [
+      "Outward",
+      "Inward",
+      "Downward",
+      "Upward"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Noowo Taerigi' in English?",
+    "opts": [
+      "Ground Strike",
+      "Downward Strike",
+      "Flying Strike",
+      "Jumping Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Jip Joong' in English?",
+    "opts": [
+      "Concentration",
+      "Equilibrium",
+      "Speed",
+      "Breath Control"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 8,
+    "q": "What is 'Sonkal Naeryo Taerigi' in English?",
+    "opts": [
+      "Knifehand Downward Strike",
+      "Fingertip Angle Strike",
+      "Knifehand Side Thrust",
+      "Knifehand Low Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 3,
+    "q": "Do San has this many movements",
+    "opts": [
+      "24",
+      "21",
+      "19",
+      "32"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Cha Bapgi' in English?",
+    "opts": [
+      "Stamping Kick",
+      "Thrusting Kick",
+      "Checking Kick",
+      "Crescent Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 3,
+    "q": "What is 'Apcha Busigi' in English?",
+    "opts": [
+      "Front Snap Kick",
+      "Front Punch",
+      "Front Rising Kick",
+      "Side Piercing Kick"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 3,
+    "q": "What is 'Yopcha Olligi' in English?",
+    "opts": [
+      "Side Rising Kick",
+      "Front Rising Kick",
+      "Back Kick",
+      "Front Snap Kick"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Dollyo Jirugi' in English?",
+    "opts": [
+      "Turning Punch",
+      "Angle Punch",
+      "Horizontal Punch",
+      "Upset Punch"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 6,
+    "q": "What is 'Wi Palkup Taerigi' in English?",
+    "opts": [
+      "Upper Elbow Strike",
+      "Upper Elbow Thrust",
+      "Outer Elbow Strike",
+      "Back Fist Side Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'In' in English?",
+    "opts": [
+      "Humanity",
+      "Propriety",
+      "Wisdom",
+      "Travel"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "Niunja Sogi is",
+    "opts": [
+      "L-Stance",
+      "Walking Stance",
+      "Low Stance",
+      "Sitting Stance"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Sang Palkup Soopyong Tulgi' in English?",
+    "opts": [
+      "Twin Elbow Horizontal Thrust",
+      "Double Elbow Horizontal Strike",
+      "Twin Elbow Horizontal Strike",
+      "Twin Elbow Upward Thrust"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 8,
+    "q": "What is 'Swiyo' in English?",
+    "opts": [
+      "At Ease",
+      "About Turn",
+      "Return",
+      "Start"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 2,
+    "q": "Reverse Knifehand",
+    "opts": [
+      "Sonkal Dung",
+      "Yop Sonkal",
+      "Ap Sonkal",
+      "An Sonkal"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 0,
+    "q": "Middle in Korean is",
+    "opts": [
+      "Kaunde",
+      "Najune",
+      "Nopunde",
+      "Najunde"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Sang Sonkal Anuro Taerigi' in English?",
+    "opts": [
+      "Twin Knifehand Inward Strike",
+      "Double Knifehand Inward Strike",
+      "Twin Knifehand Outward Strike",
+      "Double Knifehand Outward Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "What is 'Ilgop' in English?",
+    "opts": [
+      "7",
+      "9",
+      "10",
+      "3"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'Sonbadak Golcho Makgi' in English?",
+    "opts": [
+      "Palm Hooking Block",
+      "Knifehand Wedging Block",
+      "Palm Pressing Block",
+      "Knifehand Rising Block"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 12,
+    "q": "Sweeping Kick",
+    "opts": [
+      "Suroh Chagi",
+      "Doro Chagi",
+      "Butjapgo Chagi",
+      "Bal Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "What is 'Nagagi' in English?",
+    "opts": [
+      "Single Step Forward",
+      "Single Step Backwards",
+      "Spot Turning",
+      "Step Turning"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 6,
+    "q": "What is 'Sonbadak Ollyo Makgi' in English?",
+    "opts": [
+      "Palm Upward Block",
+      "Palm Downward Block",
+      "Knifehand Rising Block",
+      "Knifehand Upward Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 0,
+    "q": "Kaunde translates as",
+    "opts": [
+      "Middle",
+      "High",
+      "Low",
+      "Punch"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "How many movements are there in Po-Eun",
+    "opts": [
+      "36",
+      "35",
+      "28",
+      "42"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "Who regained all the lost territories including the greater part of Manchuria.",
+    "opts": [
+      "Kwan-Gae-Toh-Wang",
+      "Chong Mong-Chu",
+      "Ge-Baek",
+      "Son Byong Hi"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Sokdo' in English?",
+    "opts": [
+      "Speed",
+      "Concentration",
+      "Equilibrium",
+      "Reaction Force"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Zilyang' in English?",
+    "opts": [
+      "Mass",
+      "Speed",
+      "Reaction Force",
+      "Concentration"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 8,
+    "q": "What is 'Ollyo Jirugi' in English?",
+    "opts": [
+      "Upward Punch",
+      "Downward Punch",
+      "Vertical Punch",
+      "Side Front Punch"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 5,
+    "q": "What is 'Sewo Chagi' in English?",
+    "opts": [
+      "Vertical Kick",
+      "Twisting Kick",
+      "Turning Kick",
+      "Hooking Kick"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 0,
+    "q": "Najunde means ",
+    "opts": [
+      "Low",
+      "Middle",
+      "High",
+      "Left"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Sangbang Chagi - Yop Bituro Chagi. Ap Dwi Chagi' in English?",
+    "opts": [
+      "Two Direction Kick - Side Twisting. Front Back",
+      "Split Kick - Side Twisting. Front Back",
+      "Two Direction Kick - Side Turning. Side Kick",
+      "Two Direction Kick - Crescent. Front Back"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 9,
+    "q": "What is 'Twimyo Naeryo Chagi' in English?",
+    "opts": [
+      "Flying Downward Kick",
+      "Flying Snap Kick",
+      "Flying High Kick",
+      "Flying Vertical Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What does Baekdu Mountain symbolise",
+    "opts": [
+      "Spirit of Korean People",
+      "Importance of Family",
+      "Military Discipline ",
+      "Loyalty"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Bandal Chagi' in English?",
+    "opts": [
+      "Crescent Kick",
+      "Vertical Kick",
+      "Rising Kick",
+      "Downward Kick"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Boosabum Nim Kke' in English?",
+    "opts": [
+      "Face The Instructor (1st - 3rd Dan)",
+      "Face The Instructor (4th - 6th Dan)",
+      "Face The Master (7th - 8th Dan)",
+      "Face The Grand Master (9th Dan)"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 1,
+    "q": "_______ means literally the Heaven the Earth.",
+    "opts": [
+      "Chon-Ji",
+      "Dan-gun",
+      "Saju Makgi",
+      "Saju Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 9,
+    "q": "Who is the Pioneer of Taekwon-Do in New Zealand?",
+    "opts": [
+      "Mr Norman Ng",
+      "Master Evan Davidson",
+      "Master Paul McPhail",
+      "Master Mahesh Bhana "
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What is 'Bandal Jirugi' in English?",
+    "opts": [
+      "Crescent Punch",
+      "Twisting Punch",
+      "Reverse Punch",
+      "Angle Punch"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Taerimyo Chagi' in English?",
+    "opts": [
+      "Striking Kick",
+      "Grasping Kick",
+      "Punching Kick",
+      "Sweeping Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What is 'Sang Sonbadak Noolo Makgi' in English?",
+    "opts": [
+      "Twin Palm Pressing Block",
+      "Double Palm Pressing Block",
+      "Double Palm Checking Block",
+      "Twin Palm Rising Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What is 'Sun Palkup Naeryo Tulgi' in English?",
+    "opts": [
+      "Straight Elbow Downward Thrust",
+      "Flat Elbow Downward Strike",
+      "Straight Elbow Downward Strike",
+      "Twin Elbow Downward Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Noowo Ghutgi' in English?",
+    "opts": [
+      "Ground Crosscut",
+      "Knee Bending",
+      "Ground Thrust",
+      "Leg Crossing"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Sonkal Dung Daebi Makgi' in English?",
+    "opts": [
+      "Reverse Knifehand Guarding Block",
+      "Knifehand Reverse Block",
+      "Reverse Knifehand Block",
+      "Backhand Guarding Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "What is 'Hana' in English?",
+    "opts": [
+      "1",
+      "5",
+      "7",
+      "2"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Ibo Matsogi' in English?",
+    "opts": [
+      "Two Step Sparring",
+      "One Step Sparring",
+      "Three Step Sparring",
+      "Free Sparring"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 6,
+    "q": "What is 'Jajun Bal' in English?",
+    "opts": [
+      "Foot Shifting (Single Foot)",
+      "Foot Shifting (Double Foot)",
+      "Step Turning",
+      "Spot Turning"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 7,
+    "q": "What is 'Guk Gi' in English?",
+    "opts": [
+      "Self Control",
+      "Courtesy",
+      "Integrity",
+      "Perserverance"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Gujari Dolgi' in English?",
+    "opts": [
+      "Spot Turning",
+      "Single Step Backwards",
+      "Single Step Forwards",
+      "Single Step Sideways"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 5,
+    "q": "What is 'Dwitcha Jirugi' in English?",
+    "opts": [
+      "Back Piercing Kick",
+      "Side Piercing Kick",
+      "Back Fist Punch",
+      "Back Snap Kick"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 9,
+    "q": "Who was reputed to have invented the first armoured battleship(Kobukson)",
+    "opts": [
+      "Yi Soon-Sin",
+      "Ahn Chang Ho",
+      "Ge-Baek",
+      "Choong-Jang"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'Sonkal Najunde Daebi Makgi' in English?",
+    "opts": [
+      "Knifehand Low Guarding Block",
+      "Reverse Knifehand Low Block",
+      "Knifehand High Guarding Block",
+      "Forearm Middle Guarding Block"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Sambo Matsogi' in English?",
+    "opts": [
+      "Three Step Sparring",
+      "Free Sparring",
+      "Two Step Sparring",
+      "One Step Sparring"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 4,
+    "q": "What is 'Gokaeng-i Chagi' in English?",
+    "opts": [
+      "Pick Shape Kick",
+      "Downward Kick",
+      "Side Rising Kick",
+      "Rising Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 7,
+    "q": "What is 'Dwijibun Sonkut Tulgi' in English?",
+    "opts": [
+      "Upset Fingertip Thrust",
+      "Flat Fingertip Strike",
+      "Straight Fingertip Thrust",
+      "Upset Fingertip Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 6,
+    "q": "What is 'Gojung Sogi' in English?",
+    "opts": [
+      "Fixed Stance",
+      "Bending Stance",
+      "Parallel Stance",
+      "Close Stance"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Mobum Matsogi' in English?",
+    "opts": [
+      "Model Sparring",
+      "Pre-Arranged Sparring",
+      "Two Step Sparring",
+      "Free Sparring"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "How old was General Kim Duk Ryang when he died in prison",
+    "opts": [
+      "27",
+      "29",
+      "32",
+      "37"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Sang Joomuk Dwijibo Jirugi' in English?",
+    "opts": [
+      "Twin Fist Upset Punch",
+      "Twin Fist Vertical Punch",
+      "Twin Fist Downward Punch",
+      "Double Fist Vertical Punch"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 8,
+    "q": "Hwa-Rang is named after the Hwa-Rang _____",
+    "opts": [
+      "Youth Group",
+      "Independence Movement",
+      "Military Regiment",
+      "Political Party"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 4,
+    "q": "Reverse Hooking Kick is a Defensive Kick",
+    "opts": [
+      "No",
+      "Yes"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 6,
+    "q": "ITFNZ practitioners performed in the opening ceremony of the Commonwealth games in",
+    "opts": [
+      "1990",
+      "1986",
+      "1994",
+      "2002"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 3,
+    "q": "What is 'Apcha Olligi' in English?",
+    "opts": [
+      "Front Rising Kick",
+      "Side Rising Kick",
+      "Front Rising Punch",
+      "Front Snap Kick"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Yopcha Milgi' in English?",
+    "opts": [
+      "Side Pushing Kick",
+      "Side Piercing Kick",
+      "Side Thrusting Kick",
+      "Side Rising Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "What is '2' in English?",
+    "opts": [
+      "Dool",
+      "Hana",
+      "Net",
+      "Yosot"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 2,
+    "q": "Elbow",
+    "opts": [
+      "Palkup",
+      "Sonkal",
+      "Sonkut",
+      "Palmok"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Duruogi' in English?",
+    "opts": [
+      "Single Step Backwards",
+      "Single Step Forwards",
+      "Single Step Sideways",
+      "Step Turning"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Wisdom' in English?",
+    "opts": [
+      "Ji",
+      "Shin",
+      "In",
+      "We"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Joongji Joomuk Jirugi Means' in English?",
+    "opts": [
+      "Middle Knuckle Fist Punch",
+      "Side Fist Punch",
+      "Back Fist Punch",
+      "Long Fist Punch"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 9,
+    "q": "Who is the president of ITFNZ?",
+    "opts": [
+      "Master Gray Patterson",
+      "Master Paul McPhail",
+      "Master Mahesh Bhana",
+      "Master Evan Davidson"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Nopunde Bakuro Makgi Wa Palmok Najunde Makgi' in English?",
+    "opts": [
+      "High Outward Block And Forearm Low Block",
+      "Low Inner Forearm Block And Forearm Low Block",
+      "High Outer Forearm Block And Low Block",
+      "High Outward Block And Low Palm Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Jirumyo Chagi' in English?",
+    "opts": [
+      "Punching Kick",
+      "Grasping Kick",
+      "Striking Kick",
+      "Thrusting Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 4,
+    "q": "What is 'Bandae Dollyo Gorochagi' in English?",
+    "opts": [
+      "Reverse Hooking Kick",
+      "Reverse Turning Kick",
+      "Back Piercing Kick",
+      "Reverse Vertical Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 0,
+    "q": "Low in Korean is",
+    "opts": [
+      "Najunde",
+      "Nopunde",
+      "Kaunde",
+      "Palmok"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 4,
+    "q": "In what  year was Buddhism introduced to the Silla Dynasty",
+    "opts": [
+      "686 A.D",
+      "2333 B.C",
+      "1945 A.D",
+      "659 B.C"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Sasun Sogi' in English?",
+    "opts": [
+      "Diagonal Stance",
+      "One Leg Stance ",
+      "Horizontal Stance",
+      "X Stance"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 7,
+    "q": "What is 'Dung Joomuk Yopdwi Taerigi' in English?",
+    "opts": [
+      "Backfist Side Back Strike",
+      "Backfist Downward Strike",
+      "Sidefist Back Strike",
+      "Backfist Side Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "How many movements are there in Choong-Jang",
+    "opts": [
+      "52",
+      "51",
+      "56",
+      "49"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is the pseudonym given to General Kim Duk Ryang",
+    "opts": [
+      "Choong-Jang",
+      "Choong-Moo",
+      "Kwang-Gae",
+      "Eui-Am"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Sonkal Dung Najunde Daebi Makgi' in English?",
+    "opts": [
+      "Reverse Knifehand Low Guarding Block",
+      "Reverse Knifehand High Block",
+      "Reverse Knifehand High Guarding Block",
+      "Low Palm Pressing Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 9,
+    "q": "What Dynasty was Admiral Yi Soon-Sin from",
+    "opts": [
+      "Lee",
+      "Silla",
+      "Koguryo",
+      "Koryo"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'Kyocha Joomuk Chookyo Makgi' in English?",
+    "opts": [
+      "X-Fist Rising Block",
+      "X-Knifehand Rising Block",
+      "X-Fist Checking Block",
+      "X-Knifehand Checking Block"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Noowo Cha Busigi' in English?",
+    "opts": [
+      "Ground Smashing Kick",
+      "Ground Snap Kick",
+      "Jumping Snap Kick",
+      "Ground Turning Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 2,
+    "q": "What is 'Sonkal Dung Taerigi' in English?",
+    "opts": [
+      "Reverse Knifehand Strike",
+      "Reverse Knifehand Block",
+      "Flat Fingertip Strike",
+      "Backfist Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 8,
+    "q": "What is 'Kukki E Tae Hae' in English?",
+    "opts": [
+      "Face The Flag",
+      "Face The Instructor",
+      "Face The Eamniner",
+      "Thank You"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Sondung Soopyong Taerigi' in English?",
+    "opts": [
+      "Backhand Horizontal Strike",
+      "Middle Knicke fist Strike",
+      "Backfoot Horizontal Strike",
+      "Backhand Angle Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 0,
+    "q": "In Parallel stance the feet are 1 shoulder width apart, measured from the outside of the feet",
+    "opts": [
+      "Yes",
+      "No"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Anuro' in English?",
+    "opts": [
+      "Inward",
+      "Outward",
+      "Downward",
+      "Upward"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Noowo Bandal Chagi' in English?",
+    "opts": [
+      "Ground Crescent Kick",
+      "Ground Checking Kick",
+      "Flying Hooking Kick",
+      "Jumping Hooking Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 7,
+    "q": "What do the 37 Movements in Toi-Gye represent",
+    "opts": [
+      "Birthplace (latitude)",
+      "Birthplace (longitude)",
+      "37th Infantry Division",
+      "Age at death"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 0,
+    "q": "An Palmok Yop Makgi means",
+    "opts": [
+      "Inner Forearm Side Block",
+      "Outer Forearm Side Block",
+      "Inner Forearm Side Strike",
+      "Outer Forearm Front Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 7,
+    "q": "The pattern diagram for Toi Gye represents",
+    "opts": [
+      "Scholar",
+      "Master",
+      "Teacher",
+      "Heaven"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 1,
+    "q": "The width of a Sitting Stance is one and a half shoulder widths",
+    "opts": [
+      "Yes",
+      "No"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Yobap Makgi' in English?",
+    "opts": [
+      "Side Front Block",
+      "Side Block",
+      "Front Block",
+      "Forearm Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Waebal Sogi' in English?",
+    "opts": [
+      "One Leg Stance",
+      "Fixed Stance",
+      "Low Stance",
+      "Bending Stance"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 9,
+    "q": "Choong-Moo ends with a left hand attack. What does this symbolise ",
+    "opts": [
+      "Regrettable Death",
+      "Unerring Loyalty",
+      "Indomitable Spirit",
+      "Baekdu mountain"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 0,
+    "q": "Dobok translated is ",
+    "opts": [
+      "Uniform",
+      "Attention",
+      "Bow",
+      "Punch"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Doo Songarak Tulgi' in English?",
+    "opts": [
+      "Double Finger Thrust",
+      "Twin Finger Strike",
+      "Double Knuckle Thrust",
+      "Twin Knuckle Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What is 'Jigeau Chagi' in English?",
+    "opts": [
+      "Straight Kick",
+      "Stamping Kick",
+      "Thrusting Kick",
+      "Checking Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What is 'Goburyo Junbi Sogi B' in English?",
+    "opts": [
+      "Bending Ready Stance B",
+      "Close Ready Stance B",
+      "Parallel Ready Stance B",
+      "Vertical Ready Stance B"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 8,
+    "q": "What is 'Yop Palkup Tulgi' in English?",
+    "opts": [
+      "Side Elbow Thrust",
+      "Upper Elbow Strike",
+      "Back Elbow Thrust",
+      "Side Elbow Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "What is '5' in English?",
+    "opts": [
+      "Dasot",
+      "Ilgop",
+      "Yodul",
+      "Set"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'Doo Palmok Najunde Miro Makgi' in English?",
+    "opts": [
+      "Double Forearm Low Pushing Block",
+      "Twin Forearm Low Pushing Block",
+      "Double Forearm High Pushing Block",
+      "Double Forearm High Pressing Block"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Opun Sonkut Tulgi' in English?",
+    "opts": [
+      "Flat Fingertip Thrust",
+      "Reverse Knifehand Strike",
+      "Knifehand Side Strike",
+      "Palm Pushing Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 6,
+    "q": "What is the attackers ready position in 1 step sparring",
+    "opts": [
+      "Parallel Ready Stance",
+      "Walking Stance Forearm Low Block",
+      "Attention Stance",
+      "Forearm Guarding Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 0,
+    "q": "Chagi translates to",
+    "opts": [
+      "Kick",
+      "Left",
+      "Right",
+      "Bow"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Soojik Sogi' in English?",
+    "opts": [
+      "Vertical Stance",
+      "Fixed Stance",
+      "Close Stance",
+      "Sitting Stance"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Dool' in English?",
+    "opts": [
+      "2",
+      "3",
+      "1",
+      "6"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Sahwe Bongsa' in English?",
+    "opts": [
+      "Public Service",
+      "Mountain Climbing",
+      "Moral Culture",
+      "Wisdom"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 8,
+    "q": "What is 'Sonbadak Miro Makgi' in English?",
+    "opts": [
+      "Palm Pushing Block",
+      "Palm Pressing Block",
+      "Forearm Circular Block",
+      "Forearm Checking Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "The Diagram of this pattern represents Son Byong Hi's indomitable spirit",
+    "opts": [
+      "Eui-Am",
+      "Juche",
+      "Choong-Moo",
+      "Po-Eun"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Kyocha Joomuk Naeryo Makgi' in English?",
+    "opts": [
+      "X-Fist Downward Block",
+      "Twin Fist Rising Block",
+      "X-Knifehand Checking Block",
+      "X-Fist Checking Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What is 'Naeryo Makgi' in English?",
+    "opts": [
+      "Downward Block",
+      "Rising Block",
+      "Upward Block",
+      "Vertical Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "Gunnun Sogi means",
+    "opts": [
+      "Walking Stance",
+      "Sitting Stance",
+      "L-Stance",
+      "Parallel Stance"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 2,
+    "q": "Knifehand",
+    "opts": [
+      "Sonkal",
+      "Sonkut",
+      "Sun Sonkut",
+      "Joomuk"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Yo Haeng' in English?",
+    "opts": [
+      "Travel",
+      "Trust",
+      "Integrity",
+      "Mountain Climbing"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 0,
+    "q": "Saju Jirugi translates to",
+    "opts": [
+      "Four Direction Punch",
+      "Four Direction Kick",
+      "Four Direction Strike",
+      "Four Direction Thrust"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What do the 45 movements of Eui-Am refer to",
+    "opts": [
+      "Age",
+      "First 2 digits of (451 A.D)",
+      "Birthplace (45th Degree Latitude)",
+      "Birthplace (45th Degree Longitude)"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Moosa Junbi Sogi B' in English?",
+    "opts": [
+      "Warrior Ready Stance B",
+      "Close Ready Stance B",
+      "One Leg Ready Stance B",
+      "Bending Ready Stance B"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 9,
+    "q": "What is 'Twimyo Golcho Chagi' in English?",
+    "opts": [
+      "Flying Hooking Kick",
+      "Flying Twisting Kick",
+      "Flying High Kick",
+      "Jumping Hooking Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "What is '10' in English?",
+    "opts": [
+      "Yol",
+      "Net",
+      "Ilgop",
+      "Hana"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "The diagram of this pattern represents Baekdu Mountail",
+    "opts": [
+      "Juche",
+      "Ge-Baek",
+      "Choong-Jang",
+      "Eui-Am"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Jajun Bal' in English?",
+    "opts": [
+      "Foot Shifting",
+      "Foot Sword",
+      "Back Heel",
+      "Ball Of Foot"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 5,
+    "q": "What do the 38 movements of Yul-Gok refer to",
+    "opts": [
+      "Birthplace - 38th degree latitude",
+      "Birthplace - 38th degree longitude",
+      "Age when he was executed",
+      "38th Infantry division"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Noowo Tulgi' in English?",
+    "opts": [
+      "Ground Thrust",
+      "Ground Strike",
+      "Downward Thrust",
+      "Flying Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 0,
+    "q": "High in Korean is",
+    "opts": [
+      "Nopunde",
+      "Kaunde",
+      "Najunde",
+      "Kapunde"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Sabum Nim Kke' in English?",
+    "opts": [
+      "Face The Instructor (4th - 6th Dan)",
+      "Face The Instructor (1st - 3rd Dan)",
+      "Face The Master (7th - 8th Dan)",
+      "Face The Grand Master (9th Dan)"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 6,
+    "q": "Who played the leading part in the Korea-Japan merger",
+    "opts": [
+      "Hiro Bumi Ito",
+      "Won-Hyo",
+      "Ahn Chang Ho",
+      "Dan-Gun"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 1,
+    "q": "Chon-Ji has how many movements",
+    "opts": [
+      "19",
+      "24",
+      "18",
+      "21"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Naeryo Jirugi' in English?",
+    "opts": [
+      "Downward Punch",
+      "Upward Punch",
+      "Vertical Punch",
+      "Angle Punch"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 9,
+    "q": "Sonkal Dung nopunde Ap Taerigi",
+    "opts": [
+      "Reverse Knifehand High Front Strike",
+      "Reverse Knifehand Low Side Strike",
+      "Knifehand High Side Strike",
+      "Low Upset Fingertip Thrust"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Dwijibo Jirugi' in English?",
+    "opts": [
+      "Upset Punch",
+      "Upward Punch",
+      "Vertical Punch",
+      "Horizontal Punch"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 3,
+    "q": "What is 'Bandae Jirugi' in English?",
+    "opts": [
+      "Reverse Punch",
+      "Low Punch",
+      "Middle Punch",
+      "High Punch"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 7,
+    "q": "What is 'Twimyo Bandal Chagi' in English?",
+    "opts": [
+      "Flying Crescent Kick",
+      "Jumping Crescent Kick",
+      "Flying Vertical Kick",
+      "Flying Twisting Kick"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'San Makgi' in English?",
+    "opts": [
+      "W-Shape Block",
+      "U-Shape Block",
+      "Hooking Block",
+      "Wedging Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 4,
+    "q": "What is the attackers ready position in 2 step sparring",
+    "opts": [
+      "Forearm Guarding Block",
+      "Walking Stance Forearm Low Block",
+      "Sitting Ready Stance",
+      "Parallel Ready Stance"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What is 'Euhkallin Sonbaddok Naeryo Makgi' in English?",
+    "opts": [
+      "Alternate Palm Downward Block",
+      "Reverse Palm Downward Block",
+      "Foreknuckle Downward Block",
+      "Alternate Palm Rising Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 2,
+    "q": "What is 'Sonkal Yop Taerigi' in English?",
+    "opts": [
+      "Knifehand Side Strike",
+      "Knifehand Side Block",
+      "Knifehand Thrust",
+      "Backfist Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Digutja Japgi' in English?",
+    "opts": [
+      "U-Shaped Grasp",
+      "Grasping Block",
+      "Nine Shape Block",
+      "Palm Grasping Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "Charyot Sogi translates to",
+    "opts": [
+      "Attention Stance",
+      "Parallel Stance",
+      "Low Stance",
+      "Closed Stance"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Dung Joomuk Ap Taerigi' in English?",
+    "opts": [
+      "Backfist Front Strike",
+      "Sidefist Front Strike",
+      "Backfist Side Strike",
+      "Forefist Front Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 4,
+    "q": "What is 'Jayu Matsogi' in English?",
+    "opts": [
+      "Free Sparring",
+      "One Step Sparring",
+      "Two Step Sparring",
+      "Three Step Sparring"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 4,
+    "q": "What is 'Sonkal Daebi Makgi' in English?",
+    "opts": [
+      "Knifehand Guarding Block",
+      "Forearm Guarding Block",
+      "Twin Forearm Block",
+      "Double Knifehand Block"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 7,
+    "q": "What was the pen name of the noted scholar Yi Hwang",
+    "opts": [
+      "Toi-Gye",
+      "Joong-Gun",
+      "Ahn Chang Ho",
+      "Yul-Gok"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'Baekjul Boolgool' in English?",
+    "opts": [
+      "Indomitable Spirit",
+      "Courtesy",
+      "Integrity",
+      "Perserverance"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 6,
+    "q": "Low Stance is one foot longer than walking stance",
+    "opts": [
+      "Yes",
+      "No"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is NOT one of the questions Confucius and his pupils asked themselves in order to practice Self-Criticism",
+    "opts": [
+      "Have I lied to someone",
+      "Have i erred in my studies",
+      "Have i corrected myself immediately upon realising my fault",
+      "Have i behaved with a sincere attitude towards friends"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Righteousness' in English?",
+    "opts": [
+      "Ui",
+      "Ye",
+      "In",
+      "Ji"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'San Makgi' in English?",
+    "opts": [
+      "W-Shape Block",
+      "U-Shape Block",
+      "Circular Block",
+      "Twin Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 5,
+    "q": "What is 'Sang Sonkal Makgi' in English?",
+    "opts": [
+      "Twin Knifehand Block",
+      "Twin Forearm Block",
+      "Double Knifehand Block",
+      "Knifehand Wedging Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 5,
+    "q": "what type of kick is Side Pushing Kick",
+    "opts": [
+      "Offensive",
+      "Defensive"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What is 'Moa Junbi Sogi D' in English?",
+    "opts": [
+      "Close Ready Stance D",
+      "Parallel ready Stance D",
+      "Bending Ready Stance D",
+      "One Leg Stance D"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 6,
+    "q": "Who established the first club in New Zealand",
+    "opts": [
+      "Mr Norman Ng",
+      "Master Evan Davidson",
+      "Master Paul McPhail",
+      "Master James Rimmer"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 6,
+    "q": "When was Ahn Joong-Gun executed",
+    "opts": [
+      "1910",
+      "1955",
+      "1876",
+      "1912"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Guman' in English?",
+    "opts": [
+      "Stop",
+      "Start",
+      "Return",
+      "At Ease"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Ui' in English?",
+    "opts": [
+      "Righteousness",
+      "Etiquette",
+      "Public Service",
+      "Trust"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 7,
+    "q": "What is 'Yom Chi' in English?",
+    "opts": [
+      "Integrity",
+      "Courtesy",
+      "Perserverance",
+      "Self Control"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Golcho Chagi' in English?",
+    "opts": [
+      "Hooking Kick",
+      "Checking Kick",
+      "Vertical Kick",
+      "Rising Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Dwit Palkup Tulgi' in English?",
+    "opts": [
+      "Back Elbow Thrust",
+      "Side Elbow Thrust",
+      "Back Elbow Strike",
+      "Side Forearm Checking Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "What is '4' in English?",
+    "opts": [
+      "Net",
+      "Ahop",
+      "Set",
+      "Hana"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Sang Sonkal Soopyong Taerigi' in English?",
+    "opts": [
+      "Twin Knifehand Horizontal Strike",
+      "Double Knifehand Horizontal Strike",
+      "Twin Knifehand vertical Strike",
+      "Twin Knifehand Inward Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Noowo Jirugi' in English?",
+    "opts": [
+      "Ground Punch",
+      "Jumping Punch",
+      "Flying Punch",
+      "Ground Piercing Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Ye Jol' in English?",
+    "opts": [
+      "Etiquette",
+      "Trust",
+      "Righteousness",
+      "Public Service"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 0,
+    "q": "Makgi means",
+    "opts": [
+      "Block",
+      "Punch",
+      "Kick",
+      "Attention"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Kyocha Sogi' in English?",
+    "opts": [
+      "X-Stance",
+      "L-Stance",
+      "Fixed Stance",
+      "Close Stance"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 9,
+    "q": "What is 'Duro Gamyo Chagi' in English?",
+    "opts": [
+      "Skip Kick",
+      "Combination Kick",
+      "Consecutive Kick",
+      "Overhead Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 6,
+    "q": "What is 'Sonkal Dung Yop Makgi' in English?",
+    "opts": [
+      "Reverse Knifehand Side Block",
+      "Knifehand Side Block",
+      "Reverse Knifehand Low Block",
+      "Knifehand Outward Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Butjapgo Chagi' in English?",
+    "opts": [
+      "Grasping Kick",
+      "Punching Kick",
+      "Striking Kick",
+      "Thrusting Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Narani So Hanulson' in English?",
+    "opts": [
+      "Parallel Stance Heaven Hand",
+      "Parallel Stance With Twin Side Elbow",
+      "Closed Stance Heaven Hand",
+      "Closed Stance With Twin Side Elbow"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Public Service' in English?",
+    "opts": [
+      "Sahwe Bongsa",
+      "Dung San",
+      "Yo Haeng",
+      "Naengsoo Machal"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 0,
+    "q": "The length of a Walking Stance is 1 shoulder width",
+    "opts": [
+      "No",
+      "Yes"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 9,
+    "q": "What is 'Honap Chagi' in English?",
+    "opts": [
+      "Combination Kick",
+      "Consecutive Kick",
+      "Skip Kick",
+      "Overhead Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "What was 'Dong Hak' renamed to",
+    "opts": [
+      "Chondo Kyo",
+      "Juche",
+      "Eui-Am",
+      "Byong Hi"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 1,
+    "q": "White Belt signifies",
+    "opts": [
+      "Innocence and beginning students",
+      "Learning Korean Terms",
+      "Counting in Korean",
+      "Knowing Saju jirugi"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Tulumyo Chagi' in English?",
+    "opts": [
+      "Thrusting Kick",
+      "Sweeping Kick",
+      "Grasping Kick",
+      "Punching Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "How many movements are there in Yoo-Sin",
+    "opts": [
+      "68",
+      "59",
+      "65",
+      "62"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 9,
+    "q": "What was the name given to the great Admiral Yi Soon-Sin",
+    "opts": [
+      "Choong-Moo",
+      "Dan-Gun",
+      "Hwa-Rang",
+      "Juche"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 9,
+    "q": "What is 'Naeryo Jirugi' in English?",
+    "opts": [
+      "Downward Punch",
+      "Angle Punch",
+      "Downward Kick",
+      "Double Punch"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "What is 'Set' in English?",
+    "opts": [
+      "3",
+      "9",
+      "10",
+      "6"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Nopunde Palkup Taerigi' in English?",
+    "opts": [
+      "High Elbow Strike",
+      "Low Elbow Strike",
+      "High Elbow Thrust",
+      "Low Palm Thrust"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 4,
+    "q": "What is 'Sang Palmok Makgi' in English?",
+    "opts": [
+      "Twin Forearm Block",
+      "Double Forearm Block",
+      "Inner Forearm Block",
+      "Outer Forearm Block"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "_____ is a philisophical idea that man is the master of everything and decides everything",
+    "opts": [
+      "Juche",
+      "Kwang-Gae",
+      "Po-Eun",
+      "Choong-Jang"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 5,
+    "q": "Who was nicknamed the Confucius of Korea.",
+    "opts": [
+      "Yi-I",
+      "Won-Hyo",
+      "Ahn Chang Ho",
+      "Norman Ng"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Joongji Joomuk Jirugi' in English?",
+    "opts": [
+      "Middle Knuckle Fist Punch",
+      "Foreknuckle Fist Punch",
+      "Side Fist Punch",
+      "Upset Fist Punch"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Yop Naeryo Yop Joomuk Taerigi' in English?",
+    "opts": [
+      "Side Downward Side Fist Strike",
+      "Sidefist Upward Strike",
+      "Backfist Side Strike",
+      "Backfist Downward Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 4,
+    "q": "Weight is evenly distributed on both legs in a Fixed Stance",
+    "opts": [
+      "Yes",
+      "No"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Etiquette' in English?",
+    "opts": [
+      "Ye Jol",
+      "Dung San",
+      "Sahwe Bongsa",
+      "Yo Haeng"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 0,
+    "q": "The Founder of Taekwon-do is",
+    "opts": [
+      "General Choi Hong Hi",
+      "Bruce Lee",
+      "General Chagi Do",
+      "Ahn Joong-Gun"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 0,
+    "q": "Two of the tenets of Taekwon-Do are",
+    "opts": [
+      "Integrity, Indomitable Spirit",
+      "Integrity, Enthusiasm",
+      "Courage, Self-Control",
+      "Dedication,Courtesy"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Simsa Nim Kke' in English?",
+    "opts": [
+      "Face The Examiner",
+      "Face The Instructor (1st - 3rd Dan)",
+      "Face The Instructor (4th - 6th Dan)",
+      "Face The Master (7th - 8th Dan)"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 1,
+    "q": "What is '7' in English?",
+    "opts": [
+      "Ilgop",
+      "Ahop",
+      "Hana",
+      "Dool"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Kyocha Sonkal Chookyo Makgi' in English?",
+    "opts": [
+      "X-Knifehand Rising Block",
+      "X-Fist Rising Block",
+      "X-Knifehand Checking Block",
+      "X-Fist Pressing Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Model Sparring' in English?",
+    "opts": [
+      "Mobum Matsogi",
+      "Ibo Matsogi",
+      "Ilbo Matsogi",
+      "Sambo Matsogi"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 6,
+    "q": "What is 'Sonbadak Noollo Makgi' in English?",
+    "opts": [
+      "Palm Pressing Block",
+      "Palm Upward Block",
+      "Knifehand Rising Block",
+      "Knifehand Upward Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Doo Bandal San Makgi' in English?",
+    "opts": [
+      "Double Arc Hand Block",
+      "Twin Arc Hand Block",
+      "Double Palm Pushing Block",
+      "Palm Pushing Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "Warrior Ready Stance B",
+    "opts": [
+      "Moosa Junbi Sogi B",
+      "Gunnun Sogi B",
+      "Guburyo Junbi Sogi B",
+      "Charyot Sogi B"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is the attackers ready position for model sparring",
+    "opts": [
+      "Walking Stance Forearm Low Block",
+      "Attention Stance",
+      "Parallel Ready Stance",
+      "Forearm Guarding Block"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 0,
+    "q": "The correct line from the Student Oath is ",
+    "opts": [
+      "I shall never misuse Taekwon-Do",
+      "I shall respect my parents",
+      "I shall strive to do my best",
+      "I will train hard"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'Ollyo Chagi' in English?",
+    "opts": [
+      "Upward Kick",
+      "Rising Kick",
+      "High Kick",
+      "Downward Kick"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Karioogi' in English?",
+    "opts": [
+      "Covering",
+      "Checking",
+      "Holding",
+      "Knee Bending"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 3,
+    "q": "What is 'Dollyo Chagi' in English?",
+    "opts": [
+      "Turning Kick",
+      "Side Kick",
+      "Front Kick",
+      "Back Kick"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Tashi' in English?",
+    "opts": [
+      "Repeat",
+      "Start",
+      "Stop",
+      "At Ease"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Moa Sogi' in English?",
+    "opts": [
+      "Close Stance",
+      "Bending Stance",
+      "One Leg Stance",
+      "Walking Stance"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 6,
+    "q": "Which organisation is considered the Sister organisation of ITFNZ",
+    "opts": [
+      "United States Taekwon-Do Federation",
+      "ITF Taekwon-Do Australia",
+      "I.T.F. Papua New Guinea",
+      "Czech TKD Union I.T.F."
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "what is the pseudonym of Son Byong Hi",
+    "opts": [
+      "Eui-Am",
+      "Choong-Jang",
+      "Juche",
+      "Po-Eun"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 9,
+    "q": "What is 'Sang Sonbadak Ollyo Makgi' in English?",
+    "opts": [
+      "Twin Palm Upward Block",
+      "Twin Forearm Rising Block",
+      "Double Forearm Checking Block",
+      "Twin Knifehand Downward Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Humanity' in English?",
+    "opts": [
+      "In",
+      "Nae",
+      "Ui",
+      "Ye"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "Annun Sogi is",
+    "opts": [
+      "Sitting Stance",
+      "Parrallel Stance",
+      "Low Stance",
+      "Closed Stance"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Gutja Makgi' in English?",
+    "opts": [
+      "Nine Shape Block",
+      "W Shape Block",
+      "U Shape Block",
+      "Pressing Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 2,
+    "q": "What is 'Sonkal Yop Makgi' in English?",
+    "opts": [
+      "Knifehand Side Block",
+      "Knifehand Low Block",
+      "Reverse Knifehand Block",
+      "Forearm Rising Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 5,
+    "q": "What is 'Naeryo Chagi' in English?",
+    "opts": [
+      "Downward Kick",
+      "Rising Kick",
+      "Twisting Kick",
+      "Pick Shape Kick"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 12,
+    "q": "'To study the theory of power' is one of the training secrets of Taekwon-Do",
+    "opts": [
+      "Yes",
+      "No"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "Narani Junbi Sogi is",
+    "opts": [
+      "Parallel Ready Stance",
+      "Sitting Ready Stance",
+      "L Ready Stance",
+      "Walking Ready Stance"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "_______ is named after General Kim ___ ___. a commanding general during the Silla Dynasty. The 68 movements refer to the last two figures of 668 AD. the year Korea was united.",
+    "opts": [
+      "Yoo-Sin",
+      "Sam-Il",
+      "Choi-Yong",
+      "Juche"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 9,
+    "q": "How many movements are there in Choong-Moo",
+    "opts": [
+      "30",
+      "33",
+      "42",
+      "37"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Mikulgi' in English?",
+    "opts": [
+      "Sliding",
+      "Foot Shifting",
+      "Single Step Turning",
+      "Double Step Turning"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 2,
+    "q": "The correct rule for entering the dojang is",
+    "opts": [
+      "Footwear must be removed",
+      "Members must be clean",
+      "Members should be 10 min early",
+      "Members should be prepared mentally"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What type of technique does Choong-Jang end with",
+    "opts": [
+      "Left Hand Attack",
+      "Right Hand Attack",
+      "Left Hand Block",
+      "Right Hand Block"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 3,
+    "q": "The pattern diagram for Do-San is a",
+    "opts": [
+      "S-shape",
+      "Cross",
+      "I-shape",
+      "T-shape"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "What year did  Kwang-Gae-Toh-Wang come to the throne",
+    "opts": [
+      "391 A.D",
+      "378 A.D",
+      "2333 B.C",
+      "686 A.D"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 2,
+    "q": "What is 'Pakat Palmok Yop Makgi' in English?",
+    "opts": [
+      "Outer Forearm Side Block",
+      "Inner Forearm Side Block",
+      "Palm Pushing Block",
+      "Palm Downward Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 8,
+    "q": "The Hwa-Rang Youth Group originated from which Dynasty",
+    "opts": [
+      "Silla",
+      "Koguryo",
+      "Baek Je",
+      "Parhae"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Gita Boowi' in English?",
+    "opts": [
+      "Miscellaneous Parts",
+      "Foot Parts",
+      "Ankle Joint",
+      "Outer Tibia"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 11,
+    "q": "How many movements are there in Juche",
+    "opts": [
+      "45",
+      "42",
+      "51",
+      "47"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Dung Joomuk Yobap Taerigi' in English?",
+    "opts": [
+      "Backfist Side Front Strike",
+      "Sidefist Back Strike",
+      "Backfist Side Strike",
+      "Backfist Side Front Thrust"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "The ready posture of this pattern signifies a sword drawn on the right side rather than the left. symbolising this persons mistake of following his kings orders to fight with foreign forces against his own nation",
+    "opts": [
+      "Yoo-Sin",
+      "Choi-Yong",
+      "Sam-Il",
+      "Juche"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 8,
+    "q": "How many movements are there in Hwa-Rang",
+    "opts": [
+      "29",
+      "27",
+      "31",
+      "42"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 4,
+    "q": "What type of Kick is a Crescent Kick",
+    "opts": [
+      "Defensive",
+      "Offensive"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 2,
+    "q": "What is 'Dung Joomuk Yop Taerigi' in English?",
+    "opts": [
+      "Backfist Side Strike",
+      "Forefist Side Strike",
+      "Backfist Downward Strike",
+      "Reverse Knifehand Side Strike"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 4,
+    "q": "What is 'Palmok Daebi Makgi' in English?",
+    "opts": [
+      "Forearm Guarding Block",
+      "Knifehand Guarding Block",
+      "Inner Forearm Side Block",
+      "Knifehand Side Block"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Guburyo Sogi' in English?",
+    "opts": [
+      "Bending Stance",
+      "Close Stance",
+      "Fixed Stance",
+      "Walking Stance"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 1,
+    "q": "Omgyo Didimyo Dolgi is",
+    "opts": [
+      "Step Turning",
+      "Spot Turning",
+      "Single Step Backwards",
+      "Single Step Forwards"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 1,
+    "q": "The pattern diagram for Chon-Ji is a",
+    "opts": [
+      "Cross",
+      "S Shape",
+      "L shape",
+      "T Shape"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 1,
+    "q": "What is '6' in English?",
+    "opts": [
+      "Yosot",
+      "Dasot",
+      "Hana",
+      "Net"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Najunde Bandae Makgi' in English?",
+    "opts": [
+      "Low Reverse Block",
+      "Low Reverse Knifehand Block",
+      "High Backfist Strike",
+      "Low Front Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 9,
+    "q": "The first armoured battleship(Kobukson) was invented in what year",
+    "opts": [
+      "1592",
+      "1789",
+      "1624",
+      "1876"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'In Nae' in English?",
+    "opts": [
+      "Perseverance",
+      "Courtesy",
+      "Integrity",
+      "Self Control"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Kihap' in English?",
+    "opts": [
+      "Yell",
+      "Speak",
+      "Stop",
+      "Start"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Saseong Nim Kke' in English?",
+    "opts": [
+      "Face The Grand Master (9th Dan)",
+      "Face The Instructor (1st - 3rd Dan)",
+      "Face The Instructor (4th - 6th Dan)",
+      "Face The Master (7th - 8th Dan)"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Shin' in English?",
+    "opts": [
+      "Trust",
+      "Wisdom",
+      "Humanity",
+      "Loyalty"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 6,
+    "q": "Where was Ahn Joong-Gun executed",
+    "opts": [
+      "Lui-Shung prison",
+      "Pyongyang Prison",
+      "Seoul",
+      "Yodok"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Sondung Naeryo Taerigi' in English?",
+    "opts": [
+      "Backhand Downward Strike",
+      "Backfist Downward Strike",
+      "Backhand Vertical Strike",
+      "Reverse Palm Downward Thrust"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Hohup Jojul' in English?",
+    "opts": [
+      "Breath Control",
+      "Reaction Force",
+      "Speed",
+      "Mass"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 12,
+    "q": "What is 'Naengsoo Machal' in English?",
+    "opts": [
+      "Cold Showers And Baths",
+      "Mountain Climbing",
+      "Public Service",
+      "Wisdom"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 10,
+    "q": "What is 'Najunde Ap Makgi' in English?",
+    "opts": [
+      "Low Front Block",
+      "High Front Block",
+      "Middle Side Block",
+      "Low Side Block"
+    ],
+    "ans": 0,
+    "compulsory": false
+  },
+  {
+    "r": 7,
+    "q": "What is 'Ye Ui' in English?",
+    "opts": [
+      "Courtesy",
+      "Integrity",
+      "Perserverance",
+      "Self Control"
+    ],
+    "ans": 0,
+    "compulsory": true
+  },
+  {
+    "r": 0,
+    "q": "What is 'Forefist High Front Punch' in Korean?",
+    "opts": [
+      "Ap Joomuk Nopunde Ap Jirugi",
+      "Ap Joomuk Kaunde Ap Jirugi",
+      "Ap Joomuk Najunde Ap Jirugi",
+      "Sun Palkup Naeryo Tulgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Inner Forearm Wedging Block' in Korean?",
+    "opts": [
+      "An Palmok Hechyo Makgi",
+      "Ibo Omgyo Didigi",
+      "Sonkal Dung Najunde Daebi Makgi",
+      "Joongji Joomuk Jirugi Means"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Arc-Hand Crescent Strike' in Korean?",
+    "opts": [
+      "Bandal Son Bandal Taerigi",
+      "Twimyo Yonsok Jirugi",
+      "Moa so Hanulson",
+      "Gita Boowi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Flying Consecutive Punch' in Korean?",
+    "opts": [
+      "Twimyo Yonsok Jirugi",
+      "Twio Dolmyo Taerigi",
+      "Yaksok Jayu Matsogi",
+      "Naeryo Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Side Checking Kick' in Korean?",
+    "opts": [
+      "Yopcha Momchugi",
+      "Sonbadak Miro Makgi",
+      "Twi Dolmyo Chagi",
+      "Sahyun Nim Kke"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'U-Shape Block' in Korean?",
+    "opts": [
+      "Digutja Makgi",
+      "Nachuo Sogi",
+      "Giokja Jirugi",
+      "Sang Joomuk Dwijibo Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 4,
+    "q": "What is 'Inner Forearm Circular Block' in Korean?",
+    "opts": [
+      "An Palmok Dollimyo Makgi",
+      "Sonkal Daebi Makgi",
+      "Palmok Daebi Makgi",
+      "Jayu Matsogi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Ground Thrusting Kick' in Korean?",
+    "opts": [
+      "Noowo Cha Tulgi",
+      "Doo Bandal San Makgi",
+      "Bachigi",
+      "An Palmok Hechyo Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Dodging Reverse Turning Kick' in Korean?",
+    "opts": [
+      "Pihamyo Bandae Dollyo Chagi",
+      "Mom Nachugi",
+      "Dollyo Jirugi",
+      "Doo Joomuk Najunde Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Face The Master (7th - 8th Dan)' in Korean?",
+    "opts": [
+      "Sahyun Nim Kke",
+      "Baro",
+      "Tashi",
+      "Ibo Matsogi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Pre-Arranged Free Sparring' in Korean?",
+    "opts": [
+      "Yaksok Jayu Matsogi",
+      "Sondung Naeryo Taerigi",
+      "Kyocha Joomuk Naeryo Makgi",
+      "Doo Joomuk Najunde Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Moral Culture' in Korean?",
+    "opts": [
+      "Jungshin Sooyang",
+      "Ui",
+      "Joongji Joomuk Jirugi",
+      "Moral Culture"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Reverse Turning Kick' in Korean?",
+    "opts": [
+      "Bandae Dollyo Chagi",
+      "Dwitcha Busigi",
+      "Doo Palmok Makgi",
+      "Bandal Chagi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Ground Hooking Kick' in Korean?",
+    "opts": [
+      "Noowo Golcho Chagi",
+      "Zilyang",
+      "Sang Palkup Soopyong Tulgi",
+      "Sonkal Dung Najunde Daebi Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Body Dropping' in Korean?",
+    "opts": [
+      "Mom Nachugi",
+      "Twimyo Yonsok Jirugi",
+      "Sasun Sogi",
+      "Kyocha Joomuk Naeryo Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 4,
+    "q": "What is 'Knifehand Inward Strike' in Korean?",
+    "opts": [
+      "Sonkal Anuro Taerigi",
+      "Bandae Dollyo Gorochagi",
+      "Ilbo Matsogi",
+      "Pakat Palmok Hechyo Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Hand Parts' in Korean?",
+    "opts": [
+      "Sang Bansin",
+      "Najunde Anuro Makgi",
+      "Naeryo Jirugi",
+      "Sasun Sogi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Mid-Air Kick' in Korean?",
+    "opts": [
+      "Twi Dolmyo Chagi",
+      "Simsa Nim Kke",
+      "Yop Palkup Tulgi",
+      "Ollyo Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 0,
+    "q": "What is 'Forefist Middle Front Punch' in Korean?",
+    "opts": [
+      "Ap Joomuk Kaunde Ap Jirugi",
+      "Ap Joomuk Nopunde Ap Jirugi",
+      "Ap Joomuk Najunde Ap Jirugi",
+      "Swiyo"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Back Snap Kick' in Korean?",
+    "opts": [
+      "Dwitcha Busigi",
+      "Bituro Chagi",
+      "Bandal Chagi",
+      "Yopcha Milgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Mountain Climbing' in Korean?",
+    "opts": [
+      "Dung San",
+      "Propriety",
+      "Sahwe Bongsa",
+      "Dunjigi Wa Torojigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'U-Shaped Punch' in Korean?",
+    "opts": [
+      "Digutja Jirugi",
+      "Humanity",
+      "Bal Golgi",
+      "In"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 9,
+    "q": "What is 'Consecutive Kick' in Korean?",
+    "opts": [
+      "Yonsok Chagi",
+      "Twimyo Naeryo Chagi",
+      "Honap Chagi",
+      "Naeryo Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Set' in Korean?",
+    "opts": [
+      "3",
+      "10",
+      "2",
+      "Opun Sonkut Tulgi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Parallel Stance With A Twin Side Elbow' in Korean?",
+    "opts": [
+      "Narani So Sang Yop Palkup",
+      "Twimyo Yonsok Jirugi",
+      "Sang Sonkal Anuro Taerigi",
+      "Moa Junbi Sogi D"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Reverse Knifehand Circular Block' in Korean?",
+    "opts": [
+      "Sonkal Dung Dollimyo Makgi",
+      "Bandal Son Taerigi",
+      "Sang Sonkal Soopyong Taerigi",
+      "Sasun Sogi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is '4' in Korean?",
+    "opts": [
+      "Net",
+      "Palmok Anuro Makgi",
+      "8",
+      "Yosot"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Double Stepping' in Korean?",
+    "opts": [
+      "Ibo Omgyo Didigi",
+      "Bachigi",
+      "Noowo Tulgi",
+      "Bal Gisool"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Return' in Korean?",
+    "opts": [
+      "Baro",
+      "Yopcha Momchugi",
+      "Saju Tulgi",
+      "Mikulgi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is '8' in Korean?",
+    "opts": [
+      "Yodul",
+      "Yosot",
+      "9",
+      "Yobap Cha Busigi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Foot Lifting' in Korean?",
+    "opts": [
+      "Bal Dulgi",
+      "Etiquette",
+      "Butjapgo Chagi",
+      "Dung San"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Arc Hand Strike' in Korean?",
+    "opts": [
+      "Bandal Son Taerigi",
+      "Dung Joomuk Soopyong Taerigi",
+      "Doo Songarak Tulgi",
+      "Dung Joomuk Yobap Taerigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 4,
+    "q": "What is 'Forearm Rising Block' in Korean?",
+    "opts": [
+      "Palmok Chookyo Makgi",
+      "Gojung So Yop Jirugi",
+      "Sonkal Anuro Taerigi",
+      "Palmok Daebi Makgi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 3,
+    "q": "What is 'Straight Fingertip Thrust' in Korean?",
+    "opts": [
+      "Sun Sonkut Tulgi",
+      "Dollyo Chagi",
+      "Apcha Olligi",
+      "Yop Dollyo Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Equilibrium' in Korean?",
+    "opts": [
+      "Kyun Hyung",
+      "Dwijibo Jirugi",
+      "Moorup Guburigi",
+      "Noowo Cha Tulgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is '5' in Korean?",
+    "opts": [
+      "Dasot",
+      "8",
+      "10",
+      "Hana"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Wisdom' in Korean?",
+    "opts": [
+      "Ji",
+      "Yo Haeng",
+      "Sondung Soopyong Taerigi",
+      "Suroh Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 3,
+    "q": "What is 'Palm Downward Block' in Korean?",
+    "opts": [
+      "Sonbadak Naeryo Makgi",
+      "Sun Sonkut Tulgi",
+      "Bandae Jirugi",
+      "Yopcha Olligi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Foot Tackling' in Korean?",
+    "opts": [
+      "Bal Golgi",
+      "Sondung Soopyong Taerigi",
+      "Doro Chagi",
+      "Righteousness"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Start' in Korean?",
+    "opts": [
+      "Si Jak",
+      "Swiyo",
+      "Kukki E Tae Hae",
+      "Ollyo Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 3,
+    "q": "What is 'Side Turning Kick' in Korean?",
+    "opts": [
+      "Yop Dollyo Chagi",
+      "Dollyo Chagi",
+      "Bandae Jirugi",
+      "Apcha Busigi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 3,
+    "q": "What is 'Side Piercing Kick' in Korean?",
+    "opts": [
+      "Yopcha Jirugi",
+      "Yopcha Olligi",
+      "Sonbadak Naeryo Makgi",
+      "Sun Sonkut Tulgi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Twin Fist Vertical Punch' in Korean?",
+    "opts": [
+      "Sang Joomuk Sewo Jirugi",
+      "Soojik Sogi",
+      "Wi Palkup Taerigi",
+      "Guburyo Sogi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Ye' in Korean?",
+    "opts": [
+      "Propriety",
+      "In",
+      "Sahwe Bongsa",
+      "Ye"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Jungshin Sooyang' in Korean?",
+    "opts": [
+      "Moral Culture",
+      "Sondung Soopyong Taerigi",
+      "Trust",
+      "Sonkal Dung Daebi Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Front Checking Kick' in Korean?",
+    "opts": [
+      "Apcha Momchugi",
+      "Yop Palkup Tulgi",
+      "Yobap Makgi",
+      "Si Jak"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Dung San' in Korean?",
+    "opts": [
+      "Mountain Climbing",
+      "Jirumyo Chagi",
+      "Sondung Soopyong Taerigi",
+      "In"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Close Stance Heaven Hand' in Korean?",
+    "opts": [
+      "Moa so Hanulson",
+      "Bandal Son Taerigi",
+      "Doo Joomuk Najunde Jirugi",
+      "Twio Dolmyo Taerigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Mid-Air Strike' in Korean?",
+    "opts": [
+      "Twio Dolmyo Taerigi",
+      "Bandal Son Bandal Taerigi",
+      "Naeryo Jirugi",
+      "Narani Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Knee Front Snap Kick' in Korean?",
+    "opts": [
+      "Moorup Apch Busigi",
+      "Twio Dolmyo Taerigi",
+      "Pihamyo Bandae Dollyo Chagi",
+      "Nopunde Palkup Taerigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Double Step Turning' in Korean?",
+    "opts": [
+      "Ibo Omgyo Didimyo Dolgi",
+      "Ap Joomuk Noolo Makgi",
+      "Hohup Jojul",
+      "Noowo Bandal Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Jumping' in Korean?",
+    "opts": [
+      "Twigi",
+      "Sang Sonkal Makgi",
+      "Ap Palkup Taerigi",
+      "Doo Palmok Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Double Forearm Block' in Korean?",
+    "opts": [
+      "Doo Palmok Makgi",
+      "Bandal Chagi",
+      "Yopcha Milgi",
+      "Sewo Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Low Inward Block' in Korean?",
+    "opts": [
+      "Najunde Anuro Makgi",
+      "Moorup Apch Busigi",
+      "Euhkallin Sonbaddok Naeryo Makgi",
+      "Sang Inji Joomuk Bandal Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 9,
+    "q": "What is 'Flying Overhead Kick' in Korean?",
+    "opts": [
+      "Twimyo Nomo Chagi",
+      "Duro Gamyo Chagi",
+      "Twimyo Golcho Chagi",
+      "Honap Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Foot Parts' in Korean?",
+    "opts": [
+      "Ha Bansin",
+      "Narani So Sang Yop Palkup",
+      "Sang Sonkal Soopyong Taerigi",
+      "Sang Sonbadak Noolo Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Knee Bending' in Korean?",
+    "opts": [
+      "Moorup Guburigi",
+      "Dari Kogi",
+      "Gutja Makgi",
+      "Najunde Bandae Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Forearm Inward Block' in Korean?",
+    "opts": [
+      "Palmok Anuro Makgi",
+      "Net",
+      "Dool",
+      "Yobap Cha Busigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Walking Ready Stance' in Korean?",
+    "opts": [
+      "Gunnun Junbi Sogi",
+      "3",
+      "Hana",
+      "9"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Twin Palm Rising Block' in Korean?",
+    "opts": [
+      "Sang Sonbadak Chookyo Makgi",
+      "Dung Joomuk Soopyong Taerigi",
+      "Sang Sonkal Anuro Taerigi",
+      "Moa so Hanulson"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is '10' in Korean?",
+    "opts": [
+      "Yol",
+      "Yodul",
+      "Gunnun Junbi Sogi",
+      "Dasot"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 4,
+    "q": "What is 'Outer Forearm Wedging Block' in Korean?",
+    "opts": [
+      "Pakat Palmok Hechyo Makgi",
+      "Sonkal Anuro Taerigi",
+      "Sonkal Daebi Makgi",
+      "Palmok Daebi Makgi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 4,
+    "q": "What is 'Fixed Stance Side Punch' in Korean?",
+    "opts": [
+      "Gojung So Yop Jirugi",
+      "Gokaeng-i Chagi",
+      "Sonkal Anuro Taerigi",
+      "An Palmok Dollimyo Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Ground Dodging' in Korean?",
+    "opts": [
+      "Noowo Pihagi",
+      "Noowo Cha Moomchugi",
+      "Doo Bandal San Makgi",
+      "Noollo Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Knifehand Rising Block' in Korean?",
+    "opts": [
+      "Sonkal Chookyo Makgi",
+      "Doo Joomuk Najunde Jirugi",
+      "Bandal Son Taerigi",
+      "Doo Songarak Tulgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Hana' in Korean?",
+    "opts": [
+      "1",
+      "7",
+      "Yol",
+      "Opun Sonkut Tulgi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Open Fist Punch' in Korean?",
+    "opts": [
+      "Pyon Joomuk Jirugi",
+      "Nopunde Palkup Taerigi",
+      "Moa so Hanulson",
+      "Sondung Naeryo Taerigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 9,
+    "q": "What is 'X-Knifehand Checking Block' in Korean?",
+    "opts": [
+      "Kyocha Sonkal Momchau Makgi",
+      "Duro Gamyo Chagi",
+      "Twimyo Nomo Chagi",
+      "Honap Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Backfist Horizontal Strike' in Korean?",
+    "opts": [
+      "Dung Joomuk Soopyong Taerigi",
+      "Ghutgi",
+      "Gita Boowi",
+      "Sang Bansin"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Side Front Snap Kick' in Korean?",
+    "opts": [
+      "Yobap Cha Busigi",
+      "Ilgop",
+      "Nagagi",
+      "Yobap Cha Jurigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Hand Technique' in Korean?",
+    "opts": [
+      "Son Gisool",
+      "Noowo Golcho Chagi",
+      "Karioogi",
+      "Dung Joomuk Ap Taerigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Waving Kick' in Korean?",
+    "opts": [
+      "Doro Chagi",
+      "Jungshin Sooyang",
+      "Nopunde Bakuro Chagi",
+      "Moosa Junbi Sogi B"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Low Stance' in Korean?",
+    "opts": [
+      "Nachuo Sogi",
+      "Dwit Bal Sogi",
+      "Moa Sogi",
+      "Soojik Sogi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Pressing Kick' in Korean?",
+    "opts": [
+      "Noollo Chagi",
+      "Bal Gisool",
+      "Sang Palkup Soopyong Tulgi",
+      "Noowo Tulgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Angle Punch' in Korean?",
+    "opts": [
+      "Giokja Jirugi",
+      "Jajun Bal",
+      "Dwit Bal Sogi",
+      "Sonbadak Noollo Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Front Elbow Strike' in Korean?",
+    "opts": [
+      "Ap Palkup Taerigi",
+      "Sewo Chagi",
+      "Bandal Chagi",
+      "Twigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Holding' in Korean?",
+    "opts": [
+      "Bachigi",
+      "Ibo Omgyo Didigi",
+      "Bal Gisool",
+      "Noollo Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Yo Haeng' in Korean?",
+    "opts": [
+      "Travel",
+      "Ji",
+      "Dunjigi Wa Torojigi",
+      "Doro Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 4,
+    "q": "What is 'One Step Sparring' in Korean?",
+    "opts": [
+      "Ilbo Matsogi",
+      "Pakat Palmok Hechyo Makgi",
+      "Bandae Dollyo Gorochagi",
+      "Sang Palmok Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Scooping Block' in Korean?",
+    "opts": [
+      "Duro Makgi",
+      "Joongji Joomuk Jirugi Means",
+      "Kyun Hyung",
+      "Son Gisool"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Twisting Kick' in Korean?",
+    "opts": [
+      "Bituro Chagi",
+      "Sang Sonkal Makgi",
+      "Twigi",
+      "Bandal Chagi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Reaction Force' in Korean?",
+    "opts": [
+      "Bandong Ryok",
+      "Soopyong Jirugi",
+      "Gutja Makgi",
+      "Karioogi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Crosscut' in Korean?",
+    "opts": [
+      "Ghutgi",
+      "Sonkal Chookyo Makgi",
+      "Ha Bansin",
+      "Jigeau Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Rear Foot Stance' in Korean?",
+    "opts": [
+      "Dwit Bal Sogi",
+      "Gojung Sogi",
+      "Sonbadak Ollyo Makgi",
+      "Soojik Sogi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is '9' in Korean?",
+    "opts": [
+      "Ahop",
+      "Sambo Matsogi",
+      "Gunnun Junbi Sogi",
+      "4"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Forefist Pressing Block' in Korean?",
+    "opts": [
+      "Ap Joomuk Noolo Makgi",
+      "Doo Bandal San Makgi",
+      "Duro Makgi",
+      "Son Gisool"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Sweeping Kick' in Korean?",
+    "opts": [
+      "Suroh Chagi",
+      "Shin",
+      "Moral Culture",
+      "Moosa Junbi Sogi B"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'Twin Side Elbow Thrust' in Korean?",
+    "opts": [
+      "Sang Yop Palkup Tulgi",
+      "Kyocha Joomuk Noolo Makgi",
+      "Sonkal Najunde Daebi Makgi",
+      "Yom Chi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Twin Foreknuckle Fist Crescent Punch' in Korean?",
+    "opts": [
+      "Sang Inji Joomuk Bandal Jirugi",
+      "Sang Sonbadak Chookyo Makgi",
+      "Sang Sonkal Soopyong Taerigi",
+      "Moorup Apch Busigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Throwing And Falling Techniques' in Korean?",
+    "opts": [
+      "Dunjigi Wa Torojigi",
+      "Ye Jol",
+      "Moosa Junbi Sogi B",
+      "Trust"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 9,
+    "q": "What is 'Flying High Kick' in Korean?",
+    "opts": [
+      "Twimyo Nopi Chagi",
+      "Kyocha Sonkal Momchau Makgi",
+      "Naeryo Jirugi",
+      "Duro Gamyo Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Four Direction Thrust' in Korean?",
+    "opts": [
+      "Saju Tulgi",
+      "Swiyo",
+      "Baro",
+      "Yopcha Momchugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Ready' in Korean?",
+    "opts": [
+      "Junbi",
+      "Sonbadak Miro Makgi",
+      "Guman",
+      "Apcha Momchugi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Ground Piercing Kick' in Korean?",
+    "opts": [
+      "Noowo Cha Jirugi",
+      "Bachigi",
+      "Noowo Pihagi",
+      "Waebal Sogi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Checking' in Korean?",
+    "opts": [
+      "Momchugi",
+      "Zilyang",
+      "Jajun Bal",
+      "Sonkal Dung Najunde Daebi Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Parallel Block' in Korean?",
+    "opts": [
+      "Narani Makgi",
+      "Sondung Naeryo Taerigi",
+      "Sang Sonbadak Noolo Makgi",
+      "Dung Joomuk Soopyong Taerigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Horizontal Punch' in Korean?",
+    "opts": [
+      "Soopyong Jirugi",
+      "Dwijibo Jirugi",
+      "Sonkal Dung Najunde Daebi Makgi",
+      "Moorup Guburigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'X-Fist Pressing Block' in Korean?",
+    "opts": [
+      "Kyocha Joomuk Noolo Makgi",
+      "Sonbadak Golcho Makgi",
+      "Kyocha Joomuk Chookyo Makgi",
+      "In Nae"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Ground Checking Kick' in Korean?",
+    "opts": [
+      "Noowo Cha Moomchugi",
+      "Dwijibo Jirugi",
+      "Joongji Joomuk Jirugi Means",
+      "Digutja Japgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Ahop' in Korean?",
+    "opts": [
+      "9",
+      "Palmok Anuro Makgi",
+      "4",
+      "Sambo Matsogi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is '6' in Korean?",
+    "opts": [
+      "Yosot",
+      "Ahop",
+      "Yodul",
+      "Net"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 0,
+    "q": "What is 'Forefist Low Front Punch' in Korean?",
+    "opts": [
+      "Ap Joomuk Najunde Ap Jirugi",
+      "Ap Joomuk Nopunde Ap Jirugi",
+      "Ap Joomuk Kaunde Ap Jirugi",
+      "Gojung Sogi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Shin' in Korean?",
+    "opts": [
+      "Trust",
+      "Yo Haeng",
+      "Kyocha Sonkal Chookyo Makgi",
+      "Moral Culture"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Yodul' in Korean?",
+    "opts": [
+      "8",
+      "5",
+      "Net",
+      "Yosot"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Leg Crossing' in Korean?",
+    "opts": [
+      "Dari Kogi",
+      "Bandong Ryok",
+      "Waebal Sogi",
+      "Noowo Bandal Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Double Fist Low Punch' in Korean?",
+    "opts": [
+      "Doo Joomuk Najunde Jirugi",
+      "Naeryo Jirugi",
+      "Pihamyo Bandae Dollyo Chagi",
+      "Bandal Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Foot Technique' in Korean?",
+    "opts": [
+      "Bal Gisool",
+      "Gutja Makgi",
+      "Noowo Golcho Chagi",
+      "Noowo Cha Busigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Propriety' in Korean?",
+    "opts": [
+      "Ye",
+      "San Makgi",
+      "Yo Haeng",
+      "Digutja Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Outward' in Korean?",
+    "opts": [
+      "Bakuro",
+      "Bituro Chagi",
+      "Twigi",
+      "Sewo Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Ground Strike' in Korean?",
+    "opts": [
+      "Noowo Taerigi",
+      "Dwijibo Jirugi",
+      "Hohup Jojul",
+      "Duro Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Concentration' in Korean?",
+    "opts": [
+      "Jip Joong",
+      "Dwit Palkup Tulgi",
+      "Kyun Hyung",
+      "Noowo Cha Busigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Knifehand Downward Strike' in Korean?",
+    "opts": [
+      "Sonkal Naeryo Taerigi",
+      "Yopcha Momchugi",
+      "Apcha Momchugi",
+      "Baro"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Stamping Kick' in Korean?",
+    "opts": [
+      "Cha Bapgi",
+      "Gita Boowi",
+      "Euhkallin Sonbaddok Naeryo Makgi",
+      "Dollyo Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 3,
+    "q": "What is 'Front Snap Kick' in Korean?",
+    "opts": [
+      "Apcha Busigi",
+      "Yopcha Olligi",
+      "Sonbadak Naeryo Makgi",
+      "Yop Dollyo Chagi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 3,
+    "q": "What is 'Side Rising Kick' in Korean?",
+    "opts": [
+      "Yopcha Olligi",
+      "Yop Dollyo Chagi",
+      "Bandae Jirugi",
+      "Sun Sonkut Tulgi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Turning Punch' in Korean?",
+    "opts": [
+      "Dollyo Jirugi",
+      "Euhkallin Sonbaddok Naeryo Makgi",
+      "Sang Sonkal Soopyong Taerigi",
+      "Twimyo Yonsok Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Upper Elbow Strike' in Korean?",
+    "opts": [
+      "Wi Palkup Taerigi",
+      "Soojik Sogi",
+      "Gojung Sogi",
+      "Digutja Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Humanity' in Korean?",
+    "opts": [
+      "In",
+      "Sondung Soopyong Taerigi",
+      "Ji",
+      "Naengsoo Machal"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Twin Elbow Horizontal Thrust' in Korean?",
+    "opts": [
+      "Sang Palkup Soopyong Tulgi",
+      "Noowo Cha Busigi",
+      "Ap Joomuk Noolo Makgi",
+      "An Palmok Hechyo Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'At Ease' in Korean?",
+    "opts": [
+      "Swiyo",
+      "Kihap",
+      "Saseong Nim Kke",
+      "Simsa Nim Kke"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Twin Knifehand Inward Strike' in Korean?",
+    "opts": [
+      "Sang Sonkal Anuro Taerigi",
+      "Naeryo Jirugi",
+      "Sondung Naeryo Taerigi",
+      "Moa so Hanulson"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is '7' in Korean?",
+    "opts": [
+      "Ilgop",
+      "Set",
+      "Yol",
+      "Duruogi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'Palm Hooking Block' in Korean?",
+    "opts": [
+      "Sonbadak Golcho Makgi",
+      "Kyocha Joomuk Noolo Makgi",
+      "Doo Palmok Najunde Miro Makgi",
+      "Baekjul Boolgool"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Single Step Forward' in Korean?",
+    "opts": [
+      "Nagagi",
+      "Sambo Matsogi",
+      "Ahop",
+      "Ilgop"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Palm Upward Block' in Korean?",
+    "opts": [
+      "Sonbadak Ollyo Makgi",
+      "Giokja Jirugi",
+      "Guburyo Sogi",
+      "Sang Joomuk Sewo Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Speed' in Korean?",
+    "opts": [
+      "Sokdo",
+      "Duro Makgi",
+      "Narani So Hanulson",
+      "Noowo Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Mass' in Korean?",
+    "opts": [
+      "Zilyang",
+      "Bachigi",
+      "Noowo Cha Tulgi",
+      "Sokdo"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Upward Punch' in Korean?",
+    "opts": [
+      "Ollyo Jirugi",
+      "Twi Dolmyo Chagi",
+      "Kukki E Tae Hae",
+      "Yobap Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Vertical Kick' in Korean?",
+    "opts": [
+      "Sewo Chagi",
+      "Dwitcha Jirugi",
+      "Bituro Chagi",
+      "Anuro"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Two Direction Kick - Side Twisting. Front Back' in Korean?",
+    "opts": [
+      "Sangbang Chagi - Yop Bituro Chagi. Ap Dwi Chagi",
+      "Moa so Hanulson",
+      "Sonkal Dung Dollimyo Makgi",
+      "Sang Sonkal Anuro Taerigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 9,
+    "q": "What is 'Flying Downward Kick' in Korean?",
+    "opts": [
+      "Twimyo Naeryo Chagi",
+      "Twimyo Nomo Chagi",
+      "Yonsok Chagi",
+      "Sang Sonbadak Ollyo Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Crescent Kick' in Korean?",
+    "opts": [
+      "Bandal Chagi",
+      "Ap Palkup Taerigi",
+      "Naeryo Chagi",
+      "Doo Palmok Makgi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Face The Instructor (1st - 3rd Dan)' in Korean?",
+    "opts": [
+      "Boosabum Nim Kke",
+      "Ibo Matsogi",
+      "Simsa Nim Kke",
+      "Yop Palkup Tulgi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Crescent Punch' in Korean?",
+    "opts": [
+      "Bandal Jirugi",
+      "Sonkal Chookyo Makgi",
+      "Euhkallin Sonbaddok Naeryo Makgi",
+      "Sang Sonbadak Chookyo Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Striking Kick' in Korean?",
+    "opts": [
+      "Taerimyo Chagi",
+      "Bal Golgi",
+      "Mobum Matsogi",
+      "Ji"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Twin Palm Pressing Block' in Korean?",
+    "opts": [
+      "Sang Sonbadak Noolo Makgi",
+      "Pyon Joomuk Jirugi",
+      "Naeryo Jirugi",
+      "Sang Inji Joomuk Bandal Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Straight Elbow Downward Thrust' in Korean?",
+    "opts": [
+      "Sun Palkup Naeryo Tulgi",
+      "Dollyo Jirugi",
+      "Sang Sonbadak Chookyo Makgi",
+      "Sang Sonbadak Noolo Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Ground Crosscut' in Korean?",
+    "opts": [
+      "Noowo Ghutgi",
+      "Noowo Tulgi",
+      "Noowo Cha Moomchugi",
+      "Noollo Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Reverse Knifehand Guarding Block' in Korean?",
+    "opts": [
+      "Sonkal Dung Daebi Makgi",
+      "Trust",
+      "In",
+      "Jungshin Sooyang"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is '1' in Korean?",
+    "opts": [
+      "Hana",
+      "10",
+      "3",
+      "Set"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Two Step Sparring' in Korean?",
+    "opts": [
+      "Ibo Matsogi",
+      "Saju Tulgi",
+      "Yobap Makgi",
+      "Tashi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Foot Shifting (Single Foot)' in Korean?",
+    "opts": [
+      "Jajun Bal",
+      "Digutja Makgi",
+      "Sang Joomuk Sewo Jirugi",
+      "Sang Joomuk Dwijibo Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'Self Control' in Korean?",
+    "opts": [
+      "Guk Gi",
+      "Sonbadak Golcho Makgi",
+      "Ollyo Chagi",
+      "Doo Palmok Najunde Miro Makgi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Spot Turning' in Korean?",
+    "opts": [
+      "Gujari Dolgi",
+      "4",
+      "10",
+      "Gunnun Junbi Sogi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Back Piercing Kick' in Korean?",
+    "opts": [
+      "Dwitcha Jirugi",
+      "Naeryo Chagi",
+      "Bandal Chagi",
+      "Golcho Chagi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'Knifehand Low Guarding Block' in Korean?",
+    "opts": [
+      "Sonkal Najunde Daebi Makgi",
+      "Sang Yop Palkup Tulgi",
+      "In Nae",
+      "Kyocha Joomuk Noolo Makgi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Three Step Sparring' in Korean?",
+    "opts": [
+      "Sambo Matsogi",
+      "Yol",
+      "Net",
+      "Hana"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 4,
+    "q": "What is 'Pick Shape Kick' in Korean?",
+    "opts": [
+      "Gokaeng-i Chagi",
+      "Gojung So Yop Jirugi",
+      "Sonkal Daebi Makgi",
+      "Sonkal Anuro Taerigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'Upset Fingertip Thrust' in Korean?",
+    "opts": [
+      "Dwijibun Sonkut Tulgi",
+      "In Nae",
+      "Kyocha Joomuk Chookyo Makgi",
+      "Doo Palmok Najunde Miro Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Fixed Stance' in Korean?",
+    "opts": [
+      "Gojung Sogi",
+      "Sonbadak Noollo Makgi",
+      "Moa Sogi",
+      "Soojik Sogi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Model Sparring' in Korean?",
+    "opts": [
+      "Mobum Matsogi",
+      "Naengsoo Machal",
+      "Joongji Joomuk Jirugi",
+      "Bal Golgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Twin Fist Upset Punch' in Korean?",
+    "opts": [
+      "Sang Joomuk Dwijibo Jirugi",
+      "Sonbadak Ollyo Makgi",
+      "Sonkal Dung Yop Makgi",
+      "Wi Palkup Taerigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 3,
+    "q": "What is 'Front Rising Kick' in Korean?",
+    "opts": [
+      "Apcha Olligi",
+      "Yopcha Jirugi",
+      "Bandae Jirugi",
+      "Yopcha Olligi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Side Pushing Kick' in Korean?",
+    "opts": [
+      "Yopcha Milgi",
+      "Dwitcha Jirugi",
+      "Anuro",
+      "Bakuro"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Dool' in Korean?",
+    "opts": [
+      "2",
+      "3",
+      "Yosot",
+      "Palmok Anuro Makgi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Single Step Backwards' in Korean?",
+    "opts": [
+      "Duruogi",
+      "Gujari Dolgi",
+      "Ilgop",
+      "Hana"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Ji' in Korean?",
+    "opts": [
+      "Wisdom",
+      "Humanity",
+      "Tulumyo Chagi",
+      "Public Service"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Middle Knuckle Fist Punch' in Korean?",
+    "opts": [
+      "Joongji Joomuk Jirugi Means",
+      "Yop Naeryo Yop Joomuk Taerigi",
+      "Jajun Bal",
+      "Gutja Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'High Outward Block And Forearm Low Block' in Korean?",
+    "opts": [
+      "Nopunde Bakuro Makgi Wa Palmok Najunde Makgi",
+      "Sahwe Bongsa",
+      "Travel",
+      "Bal Dulgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Punching Kick' in Korean?",
+    "opts": [
+      "Jirumyo Chagi",
+      "Wisdom",
+      "Taerimyo Chagi",
+      "In"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 4,
+    "q": "What is 'Reverse Hooking Kick' in Korean?",
+    "opts": [
+      "Bandae Dollyo Gorochagi",
+      "Palmok Daebi Makgi",
+      "Palmok Chookyo Makgi",
+      "Gokaeng-i Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Diagonal Stance' in Korean?",
+    "opts": [
+      "Sasun Sogi",
+      "Sang Sonkal Soopyong Taerigi",
+      "Gita Boowi",
+      "Dung Joomuk Yobap Taerigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'Backfist Side Back Strike' in Korean?",
+    "opts": [
+      "Dung Joomuk Yopdwi Taerigi",
+      "Baekjul Boolgool",
+      "San Makgi",
+      "In Nae"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Reverse Knifehand Low Guarding Block' in Korean?",
+    "opts": [
+      "Sonkal Dung Najunde Daebi Makgi",
+      "Ibo Omgyo Didigi",
+      "Doo Bandal San Makgi",
+      "Dwijibo Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'X-Fist Rising Block' in Korean?",
+    "opts": [
+      "Kyocha Joomuk Chookyo Makgi",
+      "Yom Chi",
+      "Dung Joomuk Yopdwi Taerigi",
+      "Kyocha Joomuk Noolo Makgi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Ground Smashing Kick' in Korean?",
+    "opts": [
+      "Noowo Cha Busigi",
+      "Noowo Pihagi",
+      "Noowo Jirugi",
+      "Najunde Bandae Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 2,
+    "q": "What is 'Reverse Knifehand Strike' in Korean?",
+    "opts": [
+      "Sonkal Dung Taerigi",
+      "Pakat Palmok Yop Makgi",
+      "Sonkal Yop Taerigi",
+      "Sonkal Yop Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Face The Flag' in Korean?",
+    "opts": [
+      "Kukki E Tae Hae",
+      "Baro",
+      "Twi Dolmyo Chagi",
+      "Sonbadak Miro Makgi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Backhand Horizontal Strike' in Korean?",
+    "opts": [
+      "Sondung Soopyong Taerigi",
+      "Wisdom",
+      "Etiquette",
+      "Humanity"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Inward' in Korean?",
+    "opts": [
+      "Anuro",
+      "Naeryo Chagi",
+      "Dwitcha Busigi",
+      "Twigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Ground Crescent Kick' in Korean?",
+    "opts": [
+      "Noowo Bandal Chagi",
+      "Sokdo",
+      "Waebal Sogi",
+      "Soopyong Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Side Front Block' in Korean?",
+    "opts": [
+      "Yobap Makgi",
+      "Yop Palkup Tulgi",
+      "Apcha Momchugi",
+      "Ollyo Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'One Leg Stance' in Korean?",
+    "opts": [
+      "Waebal Sogi",
+      "Dwijibo Jirugi",
+      "Karioogi",
+      "Hohup Jojul"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Double Finger Thrust' in Korean?",
+    "opts": [
+      "Doo Songarak Tulgi",
+      "Sonkal Dung Dollimyo Makgi",
+      "Cha Bapgi",
+      "Sonkal Chookyo Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Straight Kick' in Korean?",
+    "opts": [
+      "Jigeau Chagi",
+      "Ghutgi",
+      "Bandal Son Taerigi",
+      "Yaksok Jayu Matsogi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Bending Ready Stance B' in Korean?",
+    "opts": [
+      "Goburyo Junbi Sogi B",
+      "Doo Songarak Tulgi",
+      "Sasun Sogi",
+      "Dung Joomuk Soopyong Taerigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Side Elbow Thrust' in Korean?",
+    "opts": [
+      "Yop Palkup Tulgi",
+      "Kukki E Tae Hae",
+      "Baro",
+      "Junbi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Dasot' in Korean?",
+    "opts": [
+      "5",
+      "Ilgop",
+      "10",
+      "Dool"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'Double Forearm Low Pushing Block' in Korean?",
+    "opts": [
+      "Doo Palmok Najunde Miro Makgi",
+      "Guk Gi",
+      "Twimyo Bandal Chagi",
+      "Dung Joomuk Yopdwi Taerigi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Flat Fingertip Thrust' in Korean?",
+    "opts": [
+      "Opun Sonkut Tulgi",
+      "7",
+      "9",
+      "Dasot"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Vertical Stance' in Korean?",
+    "opts": [
+      "Soojik Sogi",
+      "Wi Palkup Taerigi",
+      "Nachuo Sogi",
+      "Sang Joomuk Dwijibo Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is '2' in Korean?",
+    "opts": [
+      "Dool",
+      "Opun Sonkut Tulgi",
+      "Yosot",
+      "Dasot"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Public Service' in Korean?",
+    "opts": [
+      "Sahwe Bongsa",
+      "Kyocha Sonkal Chookyo Makgi",
+      "Sondung Soopyong Taerigi",
+      "Naengsoo Machal"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Palm Pushing Block' in Korean?",
+    "opts": [
+      "Sonbadak Miro Makgi",
+      "Swiyo",
+      "Saseong Nim Kke",
+      "Yop Palkup Tulgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'X-Fist Downward Block' in Korean?",
+    "opts": [
+      "Kyocha Joomuk Naeryo Makgi",
+      "Sonkal Dung Dollimyo Makgi",
+      "Goburyo Junbi Sogi B",
+      "Doo Songarak Tulgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Downward Block' in Korean?",
+    "opts": [
+      "Naeryo Makgi",
+      "Dollyo Jirugi",
+      "Pihamyo Bandae Dollyo Chagi",
+      "Goburyo Junbi Sogi B"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Travel' in Korean?",
+    "opts": [
+      "Yo Haeng",
+      "Dung San",
+      "Jungshin Sooyang",
+      "Suroh Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Warrior Ready Stance B' in Korean?",
+    "opts": [
+      "Moosa Junbi Sogi B",
+      "Ye",
+      "Doro Chagi",
+      "Ui"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 9,
+    "q": "What is 'Flying Hooking Kick' in Korean?",
+    "opts": [
+      "Twimyo Golcho Chagi",
+      "Sang Sonbadak Ollyo Makgi",
+      "Twimyo Nomo Chagi",
+      "Naeryo Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Yol' in Korean?",
+    "opts": [
+      "10",
+      "Nagagi",
+      "Ahop",
+      "Sambo Matsogi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Foot Shifting' in Korean?",
+    "opts": [
+      "Jajun Bal",
+      "Gutja Makgi",
+      "Bachigi",
+      "Doo Bandal San Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Ground Thrust' in Korean?",
+    "opts": [
+      "Noowo Tulgi",
+      "Sokdo",
+      "Waebal Sogi",
+      "Son Gisool"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Face The Instructor (4th - 6th Dan)' in Korean?",
+    "opts": [
+      "Sabum Nim Kke",
+      "Baro",
+      "Simsa Nim Kke",
+      "Apcha Momchugi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Downward Punch' in Korean?",
+    "opts": [
+      "Naeryo Jirugi",
+      "Ha Bansin",
+      "Mom Nachugi",
+      "Kyocha Joomuk Naeryo Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Upset Punch' in Korean?",
+    "opts": [
+      "Dwijibo Jirugi",
+      "Ibo Omgyo Didimyo Dolgi",
+      "An Palmok Hechyo Makgi",
+      "Zilyang"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 3,
+    "q": "What is 'Reverse Punch' in Korean?",
+    "opts": [
+      "Bandae Jirugi",
+      "Sun Sonkut Tulgi",
+      "Apcha Olligi",
+      "Apcha Busigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'Flying Crescent Kick' in Korean?",
+    "opts": [
+      "Twimyo Bandal Chagi",
+      "Doo Palmok Najunde Miro Makgi",
+      "Baekjul Boolgool",
+      "Sonkal Najunde Daebi Makgi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'W-Shape Block' in Korean?",
+    "opts": [
+      "San Makgi",
+      "Baekjul Boolgool",
+      "Kyocha Joomuk Noolo Makgi",
+      "Yom Chi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Alternate Palm Downward Block' in Korean?",
+    "opts": [
+      "Euhkallin Sonbaddok Naeryo Makgi",
+      "Twio Dolmyo Taerigi",
+      "Kyocha Joomuk Naeryo Makgi",
+      "Pihamyo Bandae Dollyo Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 2,
+    "q": "What is 'Knifehand Side Strike' in Korean?",
+    "opts": [
+      "Sonkal Yop Taerigi",
+      "Sonkal Dung Taerigi",
+      "Sonkal Yop Makgi",
+      "Pakat Palmok Yop Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'U-Shaped Grasp' in Korean?",
+    "opts": [
+      "Digutja Japgi",
+      "Dung Joomuk Ap Taerigi",
+      "Noollo Chagi",
+      "Noowo Cha Busigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Backfist Front Strike' in Korean?",
+    "opts": [
+      "Dung Joomuk Ap Taerigi",
+      "Duro Makgi",
+      "Sokdo",
+      "Karioogi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 4,
+    "q": "What is 'Free Sparring' in Korean?",
+    "opts": [
+      "Jayu Matsogi",
+      "Palmok Daebi Makgi",
+      "Pakat Palmok Hechyo Makgi",
+      "Gokaeng-i Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 4,
+    "q": "What is 'Knifehand Guarding Block' in Korean?",
+    "opts": [
+      "Sonkal Daebi Makgi",
+      "Palmok Chookyo Makgi",
+      "Pakat Palmok Hechyo Makgi",
+      "Sonkal Anuro Taerigi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'Indomitable Spirit' in Korean?",
+    "opts": [
+      "Baekjul Boolgool",
+      "In Nae",
+      "Yom Chi",
+      "Kyocha Joomuk Noolo Makgi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Ui' in Korean?",
+    "opts": [
+      "Righteousness",
+      "Mobum Matsogi",
+      "Ji",
+      "Digutja Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'W-Shape Block' in Korean?",
+    "opts": [
+      "San Makgi",
+      "Ji",
+      "Travel",
+      "In"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Twin Knifehand Block' in Korean?",
+    "opts": [
+      "Sang Sonkal Makgi",
+      "Bandae Dollyo Chagi",
+      "Bituro Chagi",
+      "Twigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Close Ready Stance D' in Korean?",
+    "opts": [
+      "Moa Junbi Sogi D",
+      "Yaksok Jayu Matsogi",
+      "Twimyo Yonsok Jirugi",
+      "Sang Bansin"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Stop' in Korean?",
+    "opts": [
+      "Guman",
+      "Junbi",
+      "Mikulgi",
+      "Saju Tulgi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Righteousness' in Korean?",
+    "opts": [
+      "Ui",
+      "In",
+      "Sonkal Dung Daebi Makgi",
+      "Mountain Climbing"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'Integrity' in Korean?",
+    "opts": [
+      "Yom Chi",
+      "Dung Joomuk Yopdwi Taerigi",
+      "Sonbadak Golcho Makgi",
+      "Sonkal Najunde Daebi Makgi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Hooking Kick' in Korean?",
+    "opts": [
+      "Golcho Chagi",
+      "Bakuro",
+      "Sewo Chagi",
+      "Anuro"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Back Elbow Thrust' in Korean?",
+    "opts": [
+      "Dwit Palkup Tulgi",
+      "Najunde Bandae Makgi",
+      "Joongji Joomuk Jirugi Means",
+      "Yop Naeryo Yop Joomuk Taerigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Net' in Korean?",
+    "opts": [
+      "4",
+      "Yosot",
+      "Yodul",
+      "3"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Twin Knifehand Horizontal Strike' in Korean?",
+    "opts": [
+      "Sang Sonkal Soopyong Taerigi",
+      "Sondung Naeryo Taerigi",
+      "Sasun Sogi",
+      "Narani Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Ground Punch' in Korean?",
+    "opts": [
+      "Noowo Jirugi",
+      "Noowo Tulgi",
+      "Joongji Joomuk Jirugi Means",
+      "Soopyong Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Etiquette' in Korean?",
+    "opts": [
+      "Ye Jol",
+      "Sahwe Bongsa",
+      "Butjapgo Chagi",
+      "Yo Haeng"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'X-Stance' in Korean?",
+    "opts": [
+      "Kyocha Sogi",
+      "Sang Joomuk Sewo Jirugi",
+      "Sonbadak Noollo Makgi",
+      "Sonbadak Ollyo Makgi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 9,
+    "q": "What is 'Skip Kick' in Korean?",
+    "opts": [
+      "Duro Gamyo Chagi",
+      "Naeryo Jirugi",
+      "Twimyo Golcho Chagi",
+      "Yonsok Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Reverse Knifehand Side Block' in Korean?",
+    "opts": [
+      "Sonkal Dung Yop Makgi",
+      "Sonbadak Ollyo Makgi",
+      "Kyocha Sogi",
+      "Guburyo Sogi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Grasping Kick' in Korean?",
+    "opts": [
+      "Butjapgo Chagi",
+      "San Makgi",
+      "Trust",
+      "Joongji Joomuk Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Parallel Stance Heaven Hand' in Korean?",
+    "opts": [
+      "Narani So Hanulson",
+      "Karioogi",
+      "Gutja Makgi",
+      "Najunde Ap Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Sahwe Bongsa' in Korean?",
+    "opts": [
+      "Public Service",
+      "Humanity",
+      "Jungshin Sooyang",
+      "Etiquette"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 9,
+    "q": "What is 'Combination Kick' in Korean?",
+    "opts": [
+      "Honap Chagi",
+      "Kyocha Sonkal Momchau Makgi",
+      "Twimyo Nomo Chagi",
+      "Duro Gamyo Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Thrusting Kick' in Korean?",
+    "opts": [
+      "Tulumyo Chagi",
+      "Ui",
+      "Sondung Soopyong Taerigi",
+      "Public Service"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 9,
+    "q": "What is 'Downward Punch' in Korean?",
+    "opts": [
+      "Naeryo Jirugi",
+      "Twimyo Nopi Chagi",
+      "Twimyo Golcho Chagi",
+      "Kyocha Sonkal Momchau Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is '3' in Korean?",
+    "opts": [
+      "Set",
+      "Opun Sonkut Tulgi",
+      "Ahop",
+      "4"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'High Elbow Strike' in Korean?",
+    "opts": [
+      "Nopunde Palkup Taerigi",
+      "Goburyo Junbi Sogi B",
+      "Sang Sonkal Soopyong Taerigi",
+      "Bandal Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 4,
+    "q": "What is 'Twin Forearm Block' in Korean?",
+    "opts": [
+      "Sang Palmok Makgi",
+      "Gojung So Yop Jirugi",
+      "Gokaeng-i Chagi",
+      "Sonkal Daebi Makgi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Middle Knuckle Fist Punch' in Korean?",
+    "opts": [
+      "Joongji Joomuk Jirugi",
+      "Jungshin Sooyang",
+      "Model Sparring",
+      "Moosa Junbi Sogi B"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Side Downward Side Fist Strike' in Korean?",
+    "opts": [
+      "Yop Naeryo Yop Joomuk Taerigi",
+      "Sokdo",
+      "Najunde Ap Makgi",
+      "Moorup Guburigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Ye Jol' in Korean?",
+    "opts": [
+      "Etiquette",
+      "Moosa Junbi Sogi B",
+      "Joongji Joomuk Jirugi",
+      "Model Sparring"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Face The Examiner' in Korean?",
+    "opts": [
+      "Simsa Nim Kke",
+      "Kihap",
+      "Sabum Nim Kke",
+      "Swiyo"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Ilgop' in Korean?",
+    "opts": [
+      "7",
+      "6",
+      "Yol",
+      "Yosot"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'X-Knifehand Rising Block' in Korean?",
+    "opts": [
+      "Kyocha Sonkal Chookyo Makgi",
+      "Tulumyo Chagi",
+      "Joongji Joomuk Jirugi",
+      "Taerimyo Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Mobum Matsogi' in Korean?",
+    "opts": [
+      "Model Sparring",
+      "Propriety",
+      "Bal Golgi",
+      "San Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Palm Pressing Block' in Korean?",
+    "opts": [
+      "Sonbadak Noollo Makgi",
+      "Dwit Bal Sogi",
+      "Sang Joomuk Dwijibo Jirugi",
+      "Soojik Sogi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Double Arc Hand Block' in Korean?",
+    "opts": [
+      "Doo Bandal San Makgi",
+      "Ibo Omgyo Didimyo Dolgi",
+      "Jip Joong",
+      "Son Gisool"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'Upward Kick' in Korean?",
+    "opts": [
+      "Ollyo Chagi",
+      "Kyocha Joomuk Chookyo Makgi",
+      "Sang Yop Palkup Tulgi",
+      "Kyocha Joomuk Noolo Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Covering' in Korean?",
+    "opts": [
+      "Karioogi",
+      "An Palmok Hechyo Makgi",
+      "Noowo Golcho Chagi",
+      "Noowo Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 3,
+    "q": "What is 'Turning Kick' in Korean?",
+    "opts": [
+      "Dollyo Chagi",
+      "Apcha Olligi",
+      "Sun Sonkut Tulgi",
+      "Bandae Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Repeat' in Korean?",
+    "opts": [
+      "Tashi",
+      "Twi Dolmyo Chagi",
+      "Saju Tulgi",
+      "Yopcha Momchugi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Close Stance' in Korean?",
+    "opts": [
+      "Moa Sogi",
+      "Guburyo Sogi",
+      "Soojik Sogi",
+      "Digutja Makgi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 9,
+    "q": "What is 'Twin Palm Upward Block' in Korean?",
+    "opts": [
+      "Sang Sonbadak Ollyo Makgi",
+      "Yonsok Chagi",
+      "Twimyo Nomo Chagi",
+      "Twimyo Golcho Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'In' in Korean?",
+    "opts": [
+      "Humanity",
+      "Digutja Jirugi",
+      "Doro Chagi",
+      "San Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Nine Shape Block' in Korean?",
+    "opts": [
+      "Gutja Makgi",
+      "Noowo Golcho Chagi",
+      "Jip Joong",
+      "Bandong Ryok"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 2,
+    "q": "What is 'Knifehand Side Block' in Korean?",
+    "opts": [
+      "Sonkal Yop Makgi",
+      "Dung Joomuk Yop Taerigi",
+      "Sonkal Dung Taerigi",
+      "Pakat Palmok Yop Makgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 5,
+    "q": "What is 'Downward Kick' in Korean?",
+    "opts": [
+      "Naeryo Chagi",
+      "Yopcha Milgi",
+      "Anuro",
+      "Bakuro"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Sliding' in Korean?",
+    "opts": [
+      "Mikulgi",
+      "Sahyun Nim Kke",
+      "Apcha Momchugi",
+      "Kukki E Tae Hae"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 2,
+    "q": "What is 'Outer Forearm Side Block' in Korean?",
+    "opts": [
+      "Pakat Palmok Yop Makgi",
+      "Dung Joomuk Yop Taerigi",
+      "Sonkal Yop Makgi",
+      "Sonkal Yop Taerigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Miscellaneous Parts' in Korean?",
+    "opts": [
+      "Gita Boowi",
+      "Sun Palkup Naeryo Tulgi",
+      "Narani So Sang Yop Palkup",
+      "Dollyo Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Backfist Side Front Strike' in Korean?",
+    "opts": [
+      "Dung Joomuk Yobap Taerigi",
+      "Narani So Sang Yop Palkup",
+      "Naeryo Makgi",
+      "Ha Bansin"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 2,
+    "q": "What is 'Backfist Side Strike' in Korean?",
+    "opts": [
+      "Dung Joomuk Yop Taerigi",
+      "Pakat Palmok Yop Makgi",
+      "Sonkal Yop Taerigi",
+      "Sonkal Dung Taerigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 4,
+    "q": "What is 'Forearm Guarding Block' in Korean?",
+    "opts": [
+      "Palmok Daebi Makgi",
+      "Sonkal Anuro Taerigi",
+      "Jayu Matsogi",
+      "Bandae Dollyo Gorochagi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 6,
+    "q": "What is 'Bending Stance' in Korean?",
+    "opts": [
+      "Guburyo Sogi",
+      "Moa Sogi",
+      "Wi Palkup Taerigi",
+      "Nachuo Sogi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 1,
+    "q": "What is 'Yosot' in Korean?",
+    "opts": [
+      "6",
+      "3",
+      "Net",
+      "Ilgop"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Low Reverse Block' in Korean?",
+    "opts": [
+      "Najunde Bandae Makgi",
+      "Noowo Tulgi",
+      "Narani So Hanulson",
+      "Ibo Omgyo Didimyo Dolgi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'Perseverance' in Korean?",
+    "opts": [
+      "In Nae",
+      "Twimyo Bandal Chagi",
+      "Kyocha Joomuk Noolo Makgi",
+      "Ollyo Chagi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Yell' in Korean?",
+    "opts": [
+      "Kihap",
+      "Sahyun Nim Kke",
+      "Sonkal Naeryo Taerigi",
+      "Si Jak"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 8,
+    "q": "What is 'Face The Grand Master (9th Dan)' in Korean?",
+    "opts": [
+      "Saseong Nim Kke",
+      "Saju Tulgi",
+      "Sahyun Nim Kke",
+      "Junbi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Trust' in Korean?",
+    "opts": [
+      "Shin",
+      "Moral Culture",
+      "Sahwe Bongsa",
+      "Tulumyo Chagi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 11,
+    "q": "What is 'Backhand Downward Strike' in Korean?",
+    "opts": [
+      "Sondung Naeryo Taerigi",
+      "Moa so Hanulson",
+      "Moa Junbi Sogi D",
+      "Twio Dolmyo Taerigi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Breath Control' in Korean?",
+    "opts": [
+      "Hohup Jojul",
+      "Ibo Omgyo Didigi",
+      "Momchugi",
+      "Dwijibo Jirugi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 12,
+    "q": "What is 'Cold Showers And Baths' in Korean?",
+    "opts": [
+      "Naengsoo Machal",
+      "Etiquette",
+      "Tulumyo Chagi",
+      "Ye"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 10,
+    "q": "What is 'Low Front Block' in Korean?",
+    "opts": [
+      "Najunde Ap Makgi",
+      "Ap Joomuk Noolo Makgi",
+      "Ibo Omgyo Didigi",
+      "Karioogi"
+    ],
+    "ans": 0,
+    "compulsory": false,
+    "reverse": true
+  },
+  {
+    "r": 7,
+    "q": "What is 'Courtesy' in Korean?",
+    "opts": [
+      "Ye Ui",
+      "Doo Palmok Najunde Miro Makgi",
+      "Baekjul Boolgool",
+      "Twimyo Bandal Chagi"
+    ],
+    "ans": 0,
+    "compulsory": true,
+    "reverse": true
+  }
+]

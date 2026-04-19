@@ -159,10 +159,10 @@
     "r": 2,
     "q": "Which 3 phrases below are found in the Yellow belt meaning",
     "opts": [
-      "the Earth,Plant sprouts,foundation",
-      "Foundation, Beginning, Innocence",
-      "Plant Sprouts,foundation,beginning",
-      "Takes root,innocent, foundation"
+      "The Earth, plant sprouts, foundation",
+      "Foundation, beginning, innocence",
+      "Plant Sprouts, foundation, beginning",
+      "Takes root, innocent, foundation"
     ],
     "ans": 0,
     "compulsory": true,
@@ -1924,7 +1924,7 @@
   },
   {
     "r": 11,
-    "q": "how old was Son Byong Hi when he changed the name of Dong Hak",
+    "q": "How old was Son Byong Hi when he changed the name of Dong Hak",
     "opts": [
       "45",
       "43",
@@ -2286,7 +2286,7 @@
   },
   {
     "r": 10,
-    "q": "what is the pseudonym of the loyal subject Choong Mong-Chu",
+    "q": "What is the pseudonym of the loyal subject Choong Mong-Chu",
     "opts": [
       "Po-Eun",
       "Gae-Baek",
@@ -4306,7 +4306,7 @@
   },
   {
     "r": 5,
-    "q": "what type of kick is Side Pushing Kick",
+    "q": "What type of kick is Side Pushing Kick",
     "opts": [
       "Offensive",
       "Defensive"
@@ -4989,7 +4989,7 @@
   },
   {
     "r": 11,
-    "q": "what is the pseudonym of Son Byong Hi",
+    "q": "What is the pseudonym of Son Byong Hi",
     "opts": [
       "Eui-Am",
       "Choong-Jang",
@@ -5858,7 +5858,7 @@
       "3",
       "10",
       "2",
-      "Opun Sonkut Tulgi"
+      "6"
     ],
     "ans": 0,
     "compulsory": true,
@@ -6304,9 +6304,9 @@
     "q": "What is 'Walking Ready Stance' in Korean?",
     "opts": [
       "Gunnun Junbi Sogi",
-      "3",
-      "Hana",
-      "9"
+      "Annun Junbi Sogi",
+      "Charyot Sogi",
+      "Gunnun Sogi"
     ],
     "ans": 0,
     "compulsory": false,
@@ -6833,12 +6833,12 @@
   },
   {
     "r": 1,
-    "q": "What is 'Ahop' in Korean?",
+    "q": "What is 'Ahop' in English?",
     "opts": [
       "9",
-      "Palmok Anuro Makgi",
+      "5",
       "4",
-      "Sambo Matsogi"
+      "10"
     ],
     "ans": 0,
     "compulsory": true,
@@ -6879,8 +6879,8 @@
     "opts": [
       "8",
       "5",
-      "Net",
-      "Yosot"
+      "1",
+      "3"
     ],
     "ans": 0,
     "compulsory": true,
@@ -7396,9 +7396,9 @@
     "q": "What is 'Self Control' in Korean?",
     "opts": [
       "Guk Gi",
-      "Sonbadak Golcho Makgi",
-      "Ollyo Chagi",
-      "Doo Palmok Najunde Miro Makgi"
+      "In Nae",
+      "Baekjul Boolgool",
+      "Guman"
     ],
     "ans": 0,
     "compulsory": true,
@@ -7410,8 +7410,8 @@
     "q": "What is 'Spot Turning' in Korean?",
     "opts": [
       "Gujari Dolgi",
-      "4",
-      "10",
+      "Omgyo Didigi",
+      "Narani Junbi Sogi",
       "Gunnun Junbi Sogi"
     ],
     "ans": 0,
@@ -7872,9 +7872,9 @@
     "q": "What is 'Dasot' in Korean?",
     "opts": [
       "5",
-      "Ilgop",
+      "1",
       "10",
-      "Dool"
+      "7"
     ],
     "ans": 0,
     "compulsory": true,
@@ -7900,9 +7900,9 @@
     "q": "What is 'Flat Fingertip Thrust' in Korean?",
     "opts": [
       "Opun Sonkut Tulgi",
-      "7",
-      "9",
-      "Dasot"
+      "Opun Sonkut Taerigi",
+      "Sun Sonkut Tulgi",
+      "Sun Sonkut Taerigi"
     ],
     "ans": 0,
     "compulsory": false,
@@ -8026,9 +8026,9 @@
     "q": "What is 'Yol' in Korean?",
     "opts": [
       "10",
-      "Nagagi",
-      "Ahop",
-      "Sambo Matsogi"
+      "1",
+      "5",
+      "2"
     ],
     "ans": 0,
     "compulsory": true,
@@ -8601,8 +8601,8 @@
     "opts": [
       "7",
       "6",
-      "Yol",
-      "Yosot"
+      "8",
+      "5"
     ],
     "ans": 0,
     "compulsory": true,
@@ -8909,8 +8909,8 @@
     "opts": [
       "6",
       "3",
-      "Net",
-      "Ilgop"
+      "1",
+      "10"
     ],
     "ans": 0,
     "compulsory": true,

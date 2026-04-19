@@ -547,7 +547,7 @@
   },
   {
     "r": 1,
-    "q": "What is '3' in English?",
+    "q": "What is '3' in Korean?",
     "opts": [
       "Set",
       "Net",
@@ -635,18 +635,6 @@
       "the Beginning",
       "Good and Evil",
       "the two points of the Orient"
-    ],
-    "ans": 0,
-    "compulsory": true
-  },
-  {
-    "r": 1,
-    "q": "What is 'Net' in English?",
-    "opts": [
-      "4",
-      "1",
-      "5",
-      "7"
     ],
     "ans": 0,
     "compulsory": true
@@ -905,7 +893,7 @@
   },
   {
     "r": 12,
-    "q": "What is 'Propriety' in English?",
+    "q": "What is 'Propriety' in Korean?",
     "opts": [
       "Ye",
       "In",
@@ -1395,7 +1383,7 @@
   },
   {
     "r": 1,
-    "q": "What is '1' in English?",
+    "q": "What is '1' in Korean?",
     "opts": [
       "Hana",
       "Set",
@@ -1631,7 +1619,7 @@
   },
   {
     "r": 12,
-    "q": "What is 'Travel' in English?",
+    "q": "What is 'Travel' in Korean?",
     "opts": [
       "Yo Haeng",
       "Ji",
@@ -2061,7 +2049,7 @@
   },
   {
     "r": 1,
-    "q": "What is '9' in English?",
+    "q": "What is '9' in Korean?",
     "opts": [
       "Ahop",
       "Dasot",
@@ -2097,7 +2085,7 @@
   },
   {
     "r": 12,
-    "q": "What is 'Trust' in English?",
+    "q": "What is 'Trust' in Korean?",
     "opts": [
       "Shin",
       "In",
@@ -2109,7 +2097,7 @@
   },
   {
     "r": 1,
-    "q": "What is '8' in English?",
+    "q": "What is '8' in Korean?",
     "opts": [
       "Yodul",
       "Yol",
@@ -2983,7 +2971,7 @@
   },
   {
     "r": 1,
-    "q": "What is '2' in English?",
+    "q": "What is '2' in Korean?",
     "opts": [
       "Dool",
       "Hana",
@@ -3423,7 +3411,7 @@
   },
   {
     "r": 1,
-    "q": "What is '5' in English?",
+    "q": "What is '5' in Korean?",
     "opts": [
       "Dasot",
       "Ilgop",
@@ -3651,7 +3639,7 @@
   },
   {
     "r": 1,
-    "q": "What is '10' in English?",
+    "q": "What is '10' in Korean?",
     "opts": [
       "Yol",
       "Net",
@@ -3669,18 +3657,6 @@
       "Ge-Baek",
       "Choong-Jang",
       "Eui-Am"
-    ],
-    "ans": 0,
-    "compulsory": false
-  },
-  {
-    "r": 10,
-    "q": "What is 'Jajun Bal' in English?",
-    "opts": [
-      "Foot Shifting",
-      "Foot Sword",
-      "Back Heel",
-      "Ball Of Foot"
     ],
     "ans": 0,
     "compulsory": false
@@ -3973,24 +3949,12 @@
   },
   {
     "r": 12,
-    "q": "What is 'Righteousness' in English?",
+    "q": "What is 'Righteousness' in Korean?",
     "opts": [
       "Ui",
       "Ye",
       "In",
       "Ji"
-    ],
-    "ans": 0,
-    "compulsory": false
-  },
-  {
-    "r": 12,
-    "q": "What is 'San Makgi' in English?",
-    "opts": [
-      "W-Shape Block",
-      "U-Shape Block",
-      "Circular Block",
-      "Twin Block"
     ],
     "ans": 0,
     "compulsory": false
@@ -4115,7 +4079,7 @@
   },
   {
     "r": 1,
-    "q": "What is '4' in English?",
+    "q": "What is '4' in Korean?",
     "opts": [
       "Net",
       "Ahop",
@@ -4328,18 +4292,6 @@
     "compulsory": true
   },
   {
-    "r": 9,
-    "q": "What is 'Naeryo Jirugi' in English?",
-    "opts": [
-      "Downward Punch",
-      "Angle Punch",
-      "Downward Kick",
-      "Double Punch"
-    ],
-    "ans": 0,
-    "compulsory": false
-  },
-  {
     "r": 1,
     "q": "What is 'Set' in English?",
     "opts": [
@@ -4435,7 +4387,7 @@
   },
   {
     "r": 12,
-    "q": "What is 'Etiquette' in English?",
+    "q": "What is 'Etiquette' in Korean?",
     "opts": [
       "Ye Jol",
       "Dung San",
@@ -4483,7 +4435,7 @@
   },
   {
     "r": 1,
-    "q": "What is '7' in English?",
+    "q": "What is '7' in Korean?",
     "opts": [
       "Ilgop",
       "Ahop",
@@ -4675,7 +4627,7 @@
   },
   {
     "r": 12,
-    "q": "What is 'Humanity' in English?",
+    "q": "What is 'Humanity' in Korean?",
     "opts": [
       "In",
       "Nae",
@@ -4995,7 +4947,7 @@
   },
   {
     "r": 1,
-    "q": "What is '6' in English?",
+    "q": "What is '6' in Korean?",
     "opts": [
       "Yosot",
       "Dasot",
@@ -5488,19 +5440,6 @@
     "reverse": true
   },
   {
-    "r": 1,
-    "q": "What is '4' in Korean?",
-    "opts": [
-      "Net",
-      "Palmok Anuro Makgi",
-      "8",
-      "Yosot"
-    ],
-    "ans": 0,
-    "compulsory": true,
-    "reverse": true
-  },
-  {
     "r": 10,
     "q": "What is 'Double Stepping' in Korean?",
     "opts": [
@@ -5521,19 +5460,6 @@
       "Yopcha Momchugi",
       "Saju Tulgi",
       "Mikulgi"
-    ],
-    "ans": 0,
-    "compulsory": true,
-    "reverse": true
-  },
-  {
-    "r": 1,
-    "q": "What is '8' in Korean?",
-    "opts": [
-      "Yodul",
-      "Yosot",
-      "9",
-      "Yobap Cha Busigi"
     ],
     "ans": 0,
     "compulsory": true,
@@ -5602,19 +5528,6 @@
     ],
     "ans": 0,
     "compulsory": false,
-    "reverse": true
-  },
-  {
-    "r": 1,
-    "q": "What is '5' in Korean?",
-    "opts": [
-      "Dasot",
-      "8",
-      "10",
-      "Hana"
-    ],
-    "ans": 0,
-    "compulsory": true,
     "reverse": true
   },
   {
@@ -5930,19 +5843,6 @@
     "reverse": true
   },
   {
-    "r": 1,
-    "q": "What is '10' in Korean?",
-    "opts": [
-      "Yol",
-      "Yodul",
-      "Gunnun Junbi Sogi",
-      "Dasot"
-    ],
-    "ans": 0,
-    "compulsory": true,
-    "reverse": true
-  },
-  {
     "r": 4,
     "q": "What is 'Outer Forearm Wedging Block' in Korean?",
     "opts": [
@@ -5992,19 +5892,6 @@
     ],
     "ans": 0,
     "compulsory": false,
-    "reverse": true
-  },
-  {
-    "r": 1,
-    "q": "What is 'Hana' in Korean?",
-    "opts": [
-      "1",
-      "7",
-      "Yol",
-      "Opun Sonkut Tulgi"
-    ],
-    "ans": 0,
-    "compulsory": true,
     "reverse": true
   },
   {
@@ -6242,19 +6129,6 @@
     "reverse": true
   },
   {
-    "r": 1,
-    "q": "What is '9' in Korean?",
-    "opts": [
-      "Ahop",
-      "Sambo Matsogi",
-      "Gunnun Junbi Sogi",
-      "4"
-    ],
-    "ans": 0,
-    "compulsory": true,
-    "reverse": true
-  },
-  {
     "r": 10,
     "q": "What is 'Forefist Pressing Block' in Korean?",
     "opts": [
@@ -6444,19 +6318,6 @@
       "Palmok Anuro Makgi",
       "4",
       "Sambo Matsogi"
-    ],
-    "ans": 0,
-    "compulsory": true,
-    "reverse": true
-  },
-  {
-    "r": 1,
-    "q": "What is '6' in Korean?",
-    "opts": [
-      "Yosot",
-      "Ahop",
-      "Yodul",
-      "Net"
     ],
     "ans": 0,
     "compulsory": true,
@@ -6723,19 +6584,6 @@
     "reverse": true
   },
   {
-    "r": 1,
-    "q": "What is '7' in Korean?",
-    "opts": [
-      "Ilgop",
-      "Set",
-      "Yol",
-      "Duruogi"
-    ],
-    "ans": 0,
-    "compulsory": true,
-    "reverse": true
-  },
-  {
     "r": 7,
     "q": "What is 'Palm Hooking Block' in Korean?",
     "opts": [
@@ -6957,19 +6805,6 @@
     "reverse": true
   },
   {
-    "r": 1,
-    "q": "What is '1' in Korean?",
-    "opts": [
-      "Hana",
-      "10",
-      "3",
-      "Set"
-    ],
-    "ans": 0,
-    "compulsory": true,
-    "reverse": true
-  },
-  {
     "r": 8,
     "q": "What is 'Two Step Sparring' in Korean?",
     "opts": [
@@ -7149,19 +6984,6 @@
     ],
     "ans": 0,
     "compulsory": false,
-    "reverse": true
-  },
-  {
-    "r": 1,
-    "q": "What is 'Dool' in Korean?",
-    "opts": [
-      "2",
-      "3",
-      "Yosot",
-      "Palmok Anuro Makgi"
-    ],
-    "ans": 0,
-    "compulsory": true,
     "reverse": true
   },
   {
@@ -7503,19 +7325,6 @@
     "reverse": true
   },
   {
-    "r": 1,
-    "q": "What is '2' in Korean?",
-    "opts": [
-      "Dool",
-      "Opun Sonkut Tulgi",
-      "Yosot",
-      "Dasot"
-    ],
-    "ans": 0,
-    "compulsory": true,
-    "reverse": true
-  },
-  {
     "r": 12,
     "q": "What is 'Public Service' in Korean?",
     "opts": [
@@ -7828,19 +7637,6 @@
     "reverse": true
   },
   {
-    "r": 12,
-    "q": "What is 'W-Shape Block' in Korean?",
-    "opts": [
-      "San Makgi",
-      "Ji",
-      "Travel",
-      "In"
-    ],
-    "ans": 0,
-    "compulsory": false,
-    "reverse": true
-  },
-  {
     "r": 5,
     "q": "What is 'Twin Knifehand Block' in Korean?",
     "opts": [
@@ -7933,11 +7729,11 @@
   },
   {
     "r": 1,
-    "q": "What is 'Net' in Korean?",
+    "q": "What is 'Net' in English?",
     "opts": [
       "4",
-      "Yosot",
-      "Yodul",
+      "5",
+      "8",
       "3"
     ],
     "ans": 0,
@@ -8088,32 +7884,6 @@
     "reverse": true
   },
   {
-    "r": 9,
-    "q": "What is 'Downward Punch' in Korean?",
-    "opts": [
-      "Naeryo Jirugi",
-      "Twimyo Nopi Chagi",
-      "Twimyo Golcho Chagi",
-      "Kyocha Sonkal Momchau Makgi"
-    ],
-    "ans": 0,
-    "compulsory": false,
-    "reverse": true
-  },
-  {
-    "r": 1,
-    "q": "What is '3' in Korean?",
-    "opts": [
-      "Set",
-      "Opun Sonkut Tulgi",
-      "Ahop",
-      "4"
-    ],
-    "ans": 0,
-    "compulsory": true,
-    "reverse": true
-  },
-  {
     "r": 11,
     "q": "What is 'High Elbow Strike' in Korean?",
     "opts": [
@@ -8137,19 +7907,6 @@
     ],
     "ans": 0,
     "compulsory": true,
-    "reverse": true
-  },
-  {
-    "r": 12,
-    "q": "What is 'Middle Knuckle Fist Punch' in Korean?",
-    "opts": [
-      "Joongji Joomuk Jirugi",
-      "Jungshin Sooyang",
-      "Model Sparring",
-      "Moosa Junbi Sogi B"
-    ],
-    "ans": 0,
-    "compulsory": false,
     "reverse": true
   },
   {

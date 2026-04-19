@@ -428,8 +428,8 @@ function init(Q) {
     questionText.textContent = item.q;
 
     // Options - shuffle display order but track which is correct
-    var letters = ['A', 'B', 'C', 'D'];
-    var indices = shuffle([0, 1, 2, 3]);
+    var indices = shuffle(item.opts.map(function(_, i) { return i; }));
+    var letters = indices.map(function(_, i) { return String.fromCharCode(65 + i); });
     optsCont.innerHTML = '';
     indices.forEach(function (origIdx, displayPos) {
       var btn = document.createElement('button');

@@ -75,6 +75,10 @@ title: Grading Quiz
       </div>
     </div>
 
+    <div class="text-right mb-2">
+      <a id="report-link" href="#" class="text-muted" style="font-size:0.8rem;">Report an issue with this question</a>
+    </div>
+
     <div id="options-container" class="mb-3"></div>
 
     <div id="feedback" class="alert d-none mb-3"></div>
@@ -426,6 +430,9 @@ function init(Q) {
 
     // Question
     questionText.textContent = item.q;
+    document.getElementById('report-link').href =
+      'mailto:enquiries.mosgieltkd@gmail.com?subject=' +
+      encodeURIComponent('Quiz Question Feedback (Question ID: ' + item.id + ')');
 
     // Options - shuffle display order but track which is correct
     var indices = shuffle(item.opts.map(function(_, i) { return i; }));
@@ -526,6 +533,8 @@ function init(Q) {
       div.className = 'result-card ' + (h.isCorrect ? 'r-correct' : 'r-wrong');
       var chosenText = h.q.opts[h.chosen];
       var correctText = h.q.opts[h.correct];
+      var reportHref = 'mailto:enquiries.mosgieltkd@gmail.com?subject=' +
+        encodeURIComponent('Quiz Question Feedback (Question ID: ' + h.q.id + ')');
       div.innerHTML = '<div class="r-q">' + (i + 1) + '. ' + h.q.q + '</div>' +
         '<div class="r-detail">' +
           (h.isCorrect
@@ -533,7 +542,8 @@ function init(Q) {
             : '<span class="text-danger">✗ You answered: ' + chosenText + '</span>' +
               ' &nbsp;|&nbsp; <span class="text-success">Correct: ' + correctText + '</span>'
           ) +
-        '</div>';
+        '</div>' +
+        '<div class="mt-1"><a href="' + reportHref + '" class="text-muted" style="font-size:0.8rem;">Report an issue with this question</a></div>';
       bd.appendChild(div);
     });
   }

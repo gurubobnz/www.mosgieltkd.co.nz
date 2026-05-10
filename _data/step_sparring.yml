@@ -1,5 +1,14 @@
+- title: Three step sparring alone
+  grades: Yellow stripe
+  type: 3-step
+  color: white-yellow
+  sequences:
+    - A: Walking stance punch
+      D: Walking stance inner forearm block
+      C: Walking stance flat fingertip thrust
+
 - title: Three step sparring
-  grades: Yellow belt to Green stripe
+  grades: Yellow belt
   type: 3-step
   color: yellow
   sequences:
@@ -14,7 +23,7 @@
       C: L-stance knifehand strike
 
 - title: Three step sparring
-  grades: Green stripe to Green belt
+  grades: Green stripe
   type: 3-step
   color: yellow-green
   sequences:
@@ -29,9 +38,9 @@
       C: Side piercing kick (front foot)
 
 - title: Two step sparring
-  grades: Green belt to Blue stripe
+  grades: Green belt
   type: 2-step
-  color: green-blue
+  color: green
   sequences:
     - A: Walking stance middle punch, low front snap kick
       D: Walking stance inner forearm block, walking stance knifehand low block
@@ -44,9 +53,9 @@
       C: Reverse turning kick
 
 - title: Two step sparring
-  grades: Blue stripe to Blue belt
-  type: 2-step
-  color: blue
+  grades: Blue stripe
+  type: 1-step
+  color: green-blue
   sequences:
     - A: Walking stance middle punch, low front snap kick
       D: Walking stance inner forearm block, walking stance knifehand low block
@@ -59,9 +68,9 @@
       C: Step, twisting kick
 
 - title: One step sparring
-  grades: Blue belt to Red stripe
+  grades: Blue belt
   type: 1-step
-  color: blue-red
+  color: blue
   sequences:
     - A: Walking stance punch
       D: Rear foot stance upward block
@@ -74,9 +83,9 @@
       C: Flying side piercing kick (front foot)
 
 - title: One step sparring
-  grades: Red stripe to Red belt
+  grades: Red stripe
   type: 1-step
-  color: red
+  color: blue-red
   sequences:
     - A: Walking stance punch
       D: Hooking kick
@@ -89,9 +98,9 @@
       C: Flying reverse turning kick
 
 - title: One step sparring
-  grades: Red belt to Black stripe
+  grades: Red belt
   type: 1-step
-  color: red-black
+  color: red
   sequences:
     - A: Walking stance punch
       D: L-stance palm downward block

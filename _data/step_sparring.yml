@@ -1,6 +1,5 @@
 - title: Three step sparring alone
   grades: Yellow stripe
-  type: 3-step
   color: white-yellow
   sequences:
     - A: Walking stance punch
@@ -9,7 +8,6 @@
 
 - title: Three step sparring
   grades: Yellow belt
-  type: 3-step
   color: yellow
   sequences:
     - A: Walking stance punch
@@ -24,7 +22,6 @@
 
 - title: Three step sparring
   grades: Green stripe
-  type: 3-step
   color: yellow-green
   sequences:
     - A: L-stance reverse punch
@@ -39,7 +36,6 @@
 
 - title: Two step sparring
   grades: Green belt
-  type: 2-step
   color: green
   sequences:
     - A: Walking stance middle punch, low front snap kick
@@ -54,7 +50,6 @@
 
 - title: Two step sparring
   grades: Blue stripe
-  type: 1-step
   color: green-blue
   sequences:
     - A: Walking stance middle punch, low front snap kick
@@ -69,7 +64,6 @@
 
 - title: One step sparring
   grades: Blue belt
-  type: 1-step
   color: blue
   sequences:
     - A: Walking stance punch
@@ -84,7 +78,6 @@
 
 - title: One step sparring
   grades: Red stripe
-  type: 1-step
   color: blue-red
   sequences:
     - A: Walking stance punch
@@ -99,7 +92,6 @@
 
 - title: One step sparring
   grades: Red belt
-  type: 1-step
   color: red
   sequences:
     - A: Walking stance punch

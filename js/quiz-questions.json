@@ -1148,7 +1148,7 @@
   },
   {
     "r": 11,
-    "q": "What is 'Moorup Apch Busigi' in English?",
+    "q": "What is 'Moorup Apcha Busigi' in English?",
     "opts": [
       "Knee Front Snap Kick",
       "Shin Front Snap Kick",
@@ -6177,7 +6177,7 @@
     "r": 11,
     "q": "What is 'Knee Front Snap Kick' in Korean?",
     "opts": [
-      "Moorup Apch Busigi",
+      "Moorup Apcha Busigi",
       "Twio Dolmyo Taerigi",
       "Pihamyo Bandae Dollyo Chagi",
       "Nopunde Palkup Taerigi"
@@ -6234,7 +6234,7 @@
     "q": "What is 'Low Inward Block' in Korean?",
     "opts": [
       "Najunde Anuro Makgi",
-      "Moorup Apch Busigi",
+      "Moorup Apcha Busigi",
       "Euhkallin Sonbaddok Naeryo Makgi",
       "Sang Inji Joomuk Bandal Jirugi"
     ],
@@ -6684,7 +6684,7 @@
       "Sang Inji Joomuk Bandal Jirugi",
       "Sang Sonbadak Chookyo Makgi",
       "Sang Sonkal Soopyong Taerigi",
-      "Moorup Apch Busigi"
+      "Moorup Apcha Busigi"
     ],
     "ans": 0,
     "compulsory": false,

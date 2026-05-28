@@ -19,6 +19,15 @@ layout: default
   </div>
   {% endif %}
 
+  {% if page.movements %}
+  <h2>Movements</h2>
+  <ol>
+    {% for movement in page.movements %}
+    <li>{{ movement }}</li>
+    {% endfor %}
+  </ol>
+  {% endif %}
+
   <h2>Video</h2>
   <div class="embed-responsive embed-responsive-16by9">
     <iframe src="https://www.youtube.com/embed/{{ page.youtube_id }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

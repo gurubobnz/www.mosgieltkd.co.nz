@@ -19,6 +19,11 @@ layout: default
   </div>
   {% endif %}
 
+  <h2>Video</h2>
+  <div class="embed-responsive embed-responsive-16by9">
+    <iframe src="https://www.youtube.com/embed/{{ page.youtube_id }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
   {% if page.movements %}
   <h2>Movements</h2>
   <ol>
@@ -27,11 +32,6 @@ layout: default
     {% endfor %}
   </ol>
   {% endif %}
-
-  <h2>Video</h2>
-  <div class="embed-responsive embed-responsive-16by9">
-    <iframe src="https://www.youtube.com/embed/{{ page.youtube_id }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
 
 </div>
 

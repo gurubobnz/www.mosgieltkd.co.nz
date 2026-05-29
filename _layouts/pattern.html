@@ -31,6 +31,9 @@ layout: default
     <li>{{ movement }}</li>
     {% endfor %}
   </ol>
+  {% if page.end_movement %}
+  <p><strong>END: {{ page.end_movement }}</strong></p>
+  {% endif %}
   {% endif %}
 
 </div>

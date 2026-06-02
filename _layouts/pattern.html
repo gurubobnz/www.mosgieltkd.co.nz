@@ -19,9 +19,21 @@ layout: default
   </div>
   {% endif %}
 
-  <h2>Video</h2>
-  <div class="embed-responsive embed-responsive-16by9 mb-4">
-    <iframe src="https://www.youtube.com/embed/{{ page.youtube_id }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <div class="row">
+    <div class="col">
+      <h2>Demonstration</h2>
+      <div class="embed-responsive embed-responsive-16by9 mb-4">
+        <iframe src="https://www.youtube.com/embed/{{ page.youtube_id }}" title="{{ page.title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </div>
+    {% if page.youtube_lesson_id %}
+    <div class="col">
+      <h2>Lesson</h2>
+      <div class="embed-responsive embed-responsive-16by9 mb-4">
+        <iframe src="https://www.youtube.com/embed/{{ page.youtube_lesson_id }}" title="{{ page.title }} Lesson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </div>
+  {% endif %}
   </div>
 
   {% if page.movements %}

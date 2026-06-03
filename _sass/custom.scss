@@ -1,5 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap');
+$headings-font: 'Instrument Serif', serif;
+body {
 
+}
 nav {
     z-index: 1;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
@@ -19,7 +22,7 @@ header.business {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Kaushan Script', cursive;
+    font-family: $headings-font;
 }
 
 #main-notice {
@@ -105,7 +108,7 @@ img:not(nav img):not(h1 img) {
         box-shadow: 0 2px 5px rgba(0,0,0,0.08);
 
         .step-number {
-            font-family: 'Kaushan Script', cursive;
+            font-family: $headings-font;
             font-size: 3rem;
             line-height: 1;
             color: white;
@@ -132,7 +135,7 @@ blockquote.oath {
     border-left: 4px #ccc solid;
     margin-left: 0px;
     padding: 10px 30px;
-    font-family: 'Kaushan Script', cursive;
+    font-family: $headings-font;
     line-height: 1;
     font-size: 1.5em;
 }

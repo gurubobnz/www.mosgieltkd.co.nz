@@ -48,6 +48,9 @@ layout: default
   {% endif %}
   {% endif %}
 
+  {% if page.notes %}
+    {{ page.notes | raw }}
+  {% endif %}
 </div>
 
 <header class="business" id="image-2"></header>

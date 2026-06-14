@@ -49,7 +49,12 @@ layout: default
   {% endif %}
 
   {% if page.notes %}
-    {{ page.notes | raw }}
+    <p><strong>Notes:</strong></p>
+    <ol>
+      {% for note in page.notes %}
+        <li>{{ note | raw }}</li>
+      {% endfor %}
+    </ol>
   {% endif %}
 </div>
 

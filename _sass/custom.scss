@@ -1,10 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Macondo+Swash+Caps&display=swap');
 $headings-font: 'Instrument Serif', serif;
+$fitness-starter-font: 'Macondo Swash Caps', cursive;
 body {
 
 }
 nav {
-    z-index: 1;
+    z-index: 100;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
 }
 
@@ -19,6 +20,7 @@ header.business {
     background-attachment: scroll;
     &#image-1 { background-image: url('/images/hero.jpg'); }
     &#image-2 { background-image: url('/images/sparring.jpg'); }
+    &#image-fitness-starter { background-image: url('/images/monochrome-portrait-athlete-competing-olympic-games-championship.jpg'); }
 }
 
 h1, h2, h3, h4 {
@@ -198,4 +200,73 @@ blockquote.oath {
 .resources img {
     border: 1px black solid;
     box-shadow: 0 1rem 1rem rgba(0,0,0,0.25);
+}
+
+// Fitness Starter page hero
+body.fitness_starter {
+    h1, h2, h3, h4, h5 { font-family: $fitness-starter-font; }
+
+    header.business {
+        height: 70vh;
+        position: relative;
+        &::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: rgba(0,0,0,0.5);
+        }
+        .container { position: relative; z-index: 1; }
+    }
+    .fitness-starter-main-title {
+        font-family: $fitness-starter-font;
+        font-size: clamp(3.5rem, 9vw, 8rem);
+        color: #fff;
+        text-shadow: 0 3px 16px rgba(0,0,0,0.6);
+        line-height: 1.05;
+    }
+    .fitness-starter-subtitle {
+        font-family: $fitness-starter-font;
+        font-size: clamp(1.8rem, 4vw, 3rem);
+        color: #ccc;
+        font-weight: 400;
+    }
+}
+
+// Dark page theme
+body.dark {
+    nav.navbar {
+        background-color: #1a1a1a !important;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.5);
+        &, .navbar-brand, .nav-link { color: #ddd; }
+        .nav-link:hover { color: #fff; }
+        .navbar-toggler { border-color: #555; }
+        .navbar-toggler-icon { filter: invert(1); }
+    }
+
+
+    background-color: #111;
+    color: #ddd;
+
+    .text-dark { color: #e8e8e8 !important; }
+    .text-muted { color: #888 !important; }
+
+    a:not(.btn) { color: #e07070; }
+    a:not(.btn):hover { color: #ff9999; }
+
+    .card {
+        background-color: #1c1c1c;
+        border-color: #333 !important;
+        box-shadow: 0 4px 24px rgba(0,0,0,0.6) !important;
+    }
+
+    .get-started-steps .get-started-step {
+        background-color: #1c1c1c !important;
+        border-color: #333 !important;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.4);
+        h3, p { color: #ddd; }
+    }
+
+    .fa-2x { color: #e07070; }
+
+    footer { background-color: #000 !important; }
 }

@@ -13,6 +13,7 @@
     <link href="/assets/css/app.css" rel="stylesheet">
     <style>[id] { scroll-margin-top: 70px; }</style>
   </head>
+  {% include gtm.html %}
   <body class="{{ page.body_class | default: page.url | remove_first: '/' | remove: '/' | replace: '-', '_' | default: 'index' }}">
 
     {% include nav.html %}

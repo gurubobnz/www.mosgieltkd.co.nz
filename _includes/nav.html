@@ -8,7 +8,7 @@
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
         {% for nav in navs %}
-        <li class="nav-item {% if page.url == nav.url or page.url contains nav.url and nav.url != '/' %}active{% endif %}">
+        <li class="nav-item {% if page.url == nav.url or page.url contains nav.url and nav.url != '/' %}text-bold{% endif %}">
           <a class="nav-link {{ nav.classes }}" href="{{ nav.url }}"{% if nav.target %} target="{{ nav.target }}"{% endif %}>
             {{ nav.title }}
             {% if page.url == nav.url %}<span class="sr-only">(current)</span>{% endif %}

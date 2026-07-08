@@ -225,7 +225,10 @@ title: Grading Quiz
   margin-bottom: 8px;
   border: 2px solid #dee2e6;
   border-radius: 6px;
-  background: #fff;
+  .dark & {
+    background: var(--dark);
+  }
+  background: var(--light);
   font-size: 1rem;
   cursor: pointer;
   transition: border-color 0.15s, background 0.15s;
@@ -233,6 +236,10 @@ title: Grading Quiz
 .quiz-option:hover:not(:disabled) {
   border-color: #800;
   background: #fff5f5;
+  .dark & {
+    background-color: var(--danger);
+    border-color: var(--dark);
+  }
 }
 .quiz-option .opt-letter {
   display: inline-flex;
@@ -248,10 +255,17 @@ title: Grading Quiz
   flex-shrink: 0;
   margin-right: 12px;
   transition: background 0.15s, color 0.15s;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+
 }
 .quiz-option.correct {
   border-color: #28a745;
   background: #f0fff4;
+  .dark & {
+    background: #28a745;
+    border-color: #f0fff4;
+    color: var(--light);
+  }
 }
 .quiz-option.correct .opt-letter {
   background: #28a745;
@@ -260,6 +274,12 @@ title: Grading Quiz
 .quiz-option.wrong {
   border-color: #dc3545;
   background: #fff5f5;
+  .dark & {
+    background: #dc3545;
+    border-color: #fff5f5;
+    color: var(--light);
+  }
+
 }
 .quiz-option.wrong .opt-letter {
   background: #dc3545;
@@ -280,6 +300,10 @@ title: Grading Quiz
 .stat-total   { background: #e2e3e5; }
 .stat-num  { font-size: 2rem; font-weight: bold; line-height: 1; }
 .stat-label { font-size: 0.8rem; margin-top: 2px; }
+
+.dark {
+  .stat-num, .stat-label  { color: var(--dark); }
+}
 
 .result-card {
   border: 1px solid #dee2e6;

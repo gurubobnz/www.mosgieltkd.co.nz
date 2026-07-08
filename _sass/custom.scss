@@ -2,7 +2,11 @@
 $headings-font: 'Instrument Serif', serif;
 $fitness-starter-font: 'Macondo Swash Caps', cursive;
 body {
-
+    &.dark {
+        p, .table {
+            color: var(--light);
+        }
+    }
 }
 nav {
     z-index: 100;
@@ -169,7 +173,10 @@ blockquote.oath {
     padding: 14px 16px;
     height: 100%;
     position: relative;
-    background: #fafafa;
+    .dark & {
+        background: var(--dark);
+    }
+    background: var(--light);
     box-shadow: 0 2px 4px rgba(0,0,0,0.07);
 }
 .sequence-number {

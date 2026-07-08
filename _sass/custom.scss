@@ -230,6 +230,11 @@ body.fitness_starter {
         color: #ccc;
         font-weight: 400;
     }
+    .fitness-starter-offer-title {
+        font-size: clamp(2rem, 7vw, 3.5rem);
+        line-height: 1.1;
+        word-break: keep-all;
+    }
 }
 
 // Dark page theme

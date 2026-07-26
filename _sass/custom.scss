@@ -6,6 +6,10 @@ body {
         p, .table {
             color: var(--light);
         }
+        .text-light { color: var(--dark) !important; }
+        .bg-light { background-color: var(--dark) !important; }
+        .text-dark { color: var(--light) !important; }
+        .bg-dark { background-color: var(--light) !important; }
     }
 }
 nav {

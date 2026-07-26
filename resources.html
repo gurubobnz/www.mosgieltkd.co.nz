@@ -64,9 +64,9 @@ title: Resources
     <div class="resources row">
       {% for pattern in site.data.patterns %}
       <div class="col col-12 col-lg-4 mb-4">
-	      <div class="position-relative">
-          <a href="/resources/patterns/{{ pattern.slug }}/"><img class="w-100 mb-2 hover-zoom" src="{{ pattern.thumb }}" /></a>
-          <p class="position-absolute mb-2 p-2" style="bottom: 0; left: 0; width: 100%; font-weight: bold;">{{ pattern.name }}</p>
+        <div class="position-relative hover-zoom">
+          <a href="/resources/patterns/{{ pattern.slug }}/"><img class="w-100 mb-2" src="{{ pattern.thumb }}" /></a>
+          <p class="position-absolute mb-2 p-2 bg-light text-dark" style="bottom: 0; left: 0; width: 100%; font-weight: bold;">{{ pattern.name }}</p>
         </div>
       </div>
       {% endfor %}

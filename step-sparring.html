@@ -37,6 +37,13 @@ title: Step Sparring
         </div>
       </div>
       {% endfor %}
+      {% if section.notes %}
+        <div class="col-12">
+          {% for note in section.notes %}
+            <p>{{ note }}</p>
+          {% endfor %}
+        </div>
+      {% endif %}
     </div>
   </div>
   {% endfor %}

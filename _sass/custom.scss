@@ -77,7 +77,7 @@ body {
 }
 
 // Image hover zoom
-img:not(nav img):not(h1 img) {
+.hover-zoom {
     transition: transform 0.3s ease;
     &:hover { transform: scale(1.05); }
 }

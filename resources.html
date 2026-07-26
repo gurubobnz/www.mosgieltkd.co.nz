@@ -18,25 +18,25 @@ title: Resources
       <div class="col col-6 col-lg-3 my-4">
         <p class="mb-3">Gup Handbook</p>
         <a href="/resources/gup-handbook-2024.pdf">
-          <img class="w-100" src="/images/resources/gup-handbook.jpg" />
+          <img class="w-100 hover-zoom" src="/images/resources/gup-handbook.jpg" />
         </a>
       </div>
       <div class="col col-6 col-lg-3 my-4">
         <p class="mb-3">Gup Handbook for Kids</p>
         <a href="/resources/gup-handbook-kids-2024.pdf">
-          <img class="w-100" src="/images/resources/gup-handbook-kids.jpg" />
+          <img class="w-100 hover-zoom" src="/images/resources/gup-handbook-kids.jpg" />
         </a>
       </div>
       <div class="col col-6 col-lg-3 my-4">
         <p class="mb-3">Pattern Workout Book</p>
         <a href="/resources/pattern-workout-e-book.pdf">
-          <img class="w-100" src="/images/resources/pattern-workout-e-book.jpg" />
+          <img class="w-100 hover-zoom" src="/images/resources/pattern-workout-e-book.jpg" />
         </a>
       </div>
       <div class="col col-6 col-lg-3 my-4">
         <p class="mb-3">Dan Handbook</p>
         <a href="/resources/dan-handbook-2024.pdf">
-          <img class="w-100" src="/images/resources/dan-handbook.jpg" />
+          <img class="w-100 hover-zoom" src="/images/resources/dan-handbook.jpg" />
         </a>
       </div>
     </div>
@@ -64,9 +64,9 @@ title: Resources
     <div class="resources row">
       {% for pattern in site.data.patterns %}
       <div class="col col-12 col-lg-4 mb-4">
-	<div class="position-relative">
-          <a href="/resources/patterns/{{ pattern.slug }}/"><img class="w-100 mb-2" src="{{ pattern.thumb }}" /></a>
-          <p class="position-absolute mb-2 p-2" style="bottom: 0; left: 0; width: 100%; background-color: #eee; font-weight: bold;">{{ pattern.name }}</p>
+	      <div class="position-relative">
+          <a href="/resources/patterns/{{ pattern.slug }}/"><img class="w-100 mb-2 hover-zoom" src="{{ pattern.thumb }}" /></a>
+          <p class="position-absolute mb-2 p-2" style="bottom: 0; left: 0; width: 100%; font-weight: bold;">{{ pattern.name }}</p>
         </div>
       </div>
       {% endfor %}

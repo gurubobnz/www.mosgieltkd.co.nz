@@ -75,6 +75,8 @@
     - A: Side turning kick
       D: Dodge to forearm guarding block
       C: Flying side piercing kick (front foot)
+  notes:
+    - For the palm upward block, be sure that the palm is blocking the fist of the attack, not the forearm. This can occur when you are too close to your opponent after they punch. This could mean your distance is too close before they move.
 
 - title: One step sparring
   grades: Red stripe
@@ -105,3 +107,5 @@
     - A: Back piercing kick
       D: ~
       C: Flying twisting kick
+  notes:
+    - For the flying twisting kick, perform that counter-attack as soon as your opponent begins to turn for their back piercing kick attack, targeting their side as they turn.

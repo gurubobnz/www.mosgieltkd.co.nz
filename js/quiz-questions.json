@@ -5647,8 +5647,8 @@
     "opts": [
       "Pihamyo Bandae Dollyo Chagi",
       "Mom Nachugi",
-      "Dollyo Jirugi",
-      "Doo Joomuk Najunde Jirugi"
+      "Bandae Dollyo Chagi",
+      "Pihamyo Bandae Golcho Chagi"
     ],
     "ans": 0,
     "compulsory": false,
@@ -6374,9 +6374,9 @@
     "q": "What is 'Knifehand Rising Block' in Korean?",
     "opts": [
       "Sonkal Chookyo Makgi",
-      "Doo Joomuk Najunde Jirugi",
-      "Bandal Son Taerigi",
-      "Doo Songarak Tulgi"
+      "Doo Joomuk Najunde Makgi",
+      "Palmok Chookyo Makgi",
+      "Doo Songarak Makgi"
     ],
     "ans": 0,
     "compulsory": false,
@@ -6780,9 +6780,9 @@
     "q": "What is 'Parallel Block' in Korean?",
     "opts": [
       "Narani Makgi",
-      "Sondung Naeryo Taerigi",
-      "Sang Sonbadak Noolo Makgi",
-      "Dung Joomuk Soopyong Taerigi"
+      "Narani Ap Makgi",
+      "Sang Ap Makgi",
+      "Doo Ap Makgi"
     ],
     "ans": 0,
     "compulsory": false,
@@ -7005,8 +7005,8 @@
     "opts": [
       "Cha Bapgi",
       "Gita Boowi",
-      "Euhkallin Sonbaddok Naeryo Makgi",
-      "Dollyo Jirugi"
+      "Chabap Gita",
+      "Naeryo Chagi"
     ],
     "ans": 0,
     "compulsory": false,
@@ -7116,9 +7116,9 @@
     "q": "What is 'Twin Knifehand Inward Strike' in Korean?",
     "opts": [
       "Sang Sonkal Anuro Taerigi",
-      "Naeryo Jirugi",
-      "Sondung Naeryo Taerigi",
-      "Moa so Hanulson"
+      "Sang Sonkal Bakuro Taerigi",
+      "Sondung Anuro Taerigi",
+      "Doo Sonkal Bakuro Taerigi"
     ],
     "ans": 0,
     "compulsory": false,
@@ -8152,8 +8152,8 @@
     "q": "What is 'Alternate Palm Downward Block' in Korean?",
     "opts": [
       "Euhkallin Sonbaddok Naeryo Makgi",
-      "Twio Dolmyo Taerigi",
-      "Kyocha Joomuk Naeryo Makgi",
+      "Dung Sonbaddok Euhkallin Makgi",
+      "Bandae Joomuk Naeryo Makgi",
       "Pihamyo Bandae Dollyo Chagi"
     ],
     "ans": 0,
@@ -8377,8 +8377,8 @@
     "opts": [
       "Sang Sonkal Soopyong Taerigi",
       "Sondung Naeryo Taerigi",
-      "Sasun Sogi",
-      "Narani Makgi"
+      "Sang Sonkal Kaunde Bunbun Taerigi",
+      "Doo Sonkal Soopyong Taerigi"
     ],
     "ans": 0,
     "compulsory": false,
